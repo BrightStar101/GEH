@@ -5,6 +5,7 @@ const morgan = require('morgan');
 const rateLimit = require('express-rate-limit');
 const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
+const path = require('path');
 
 const loadConfig = require('./config/config');
 const { errorHandler } = require('./middleware/errorMiddleware');
@@ -60,7 +61,12 @@ app.use('/api/chat', chatRoutes);
 app.use('/api/paypal', paypalRoutes);
 app.use('/api/admin-impact', require('./routes/adminImpactRoutes')); // ✅ Admin Impact Dashboard
 
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, "dist")));
+
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "dist", "index.html"));
+});
+
 
 // Global fallback route for unmatched endpoints
 // app.use('*', (req, res) => {
