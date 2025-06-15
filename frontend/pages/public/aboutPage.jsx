@@ -2,8 +2,8 @@
 // Purpose: GEH brand story, Mira’s origin, ethical standards, and platform values
 
 import React, { useEffect } from "react";
-import MetaHead from "@/components/public/MetaHead";
-import FooterNavigation from "@/components/public/FooterNavigation";
+import MetaHead from "../../components/public/MetaHead";
+import FooterNavigation from "../../components/public/FooterNavigation";
 import analyticsTracker from "../../utils/analyticsTracker";
 
 /**

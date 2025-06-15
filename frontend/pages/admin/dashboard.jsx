@@ -1,7 +1,7 @@
 // File: /frontend/pages/admin/dashboard.jsx
 
 import React, { useContext, useEffect, useState } from "react";
-import AdminTopBar from "@/components/admin/AdminTopBar";
+import AdminTopBar from "../../components/admin/AdminTopBar";
 import axios from "axios";
 import { Star } from 'lucide-react';
 

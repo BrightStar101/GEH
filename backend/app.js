@@ -61,7 +61,7 @@ app.use('/api/chat', chatRoutes);
 app.use('/api/paypal', paypalRoutes);
 app.use('/api/admin-impact', require('./routes/adminImpactRoutes')); // ✅ Admin Impact Dashboard
 
-app.use(express.static(path.join(__dirname, "dist")));
+app.use(express.static(path.join(__dirname, "share")));
 
 // app.get("*", (req, res) => {
 //   res.sendFile(path.join(__dirname, "dist", "index.html"));

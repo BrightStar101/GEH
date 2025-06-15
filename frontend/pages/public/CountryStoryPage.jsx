@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import StoryCard from "@/components/public/StoryCard.jsx";
-import MetaHead from "@/components/public/MetaHead";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet"; // ✅ Added
+import StoryCard from "../../components/public/StoryCard.jsx";
+import MetaHead from "../../components/public/MetaHead";
+import GlobalMetaHelmet from "../../components/GlobalMetaHelmet"; // ✅ Added
 import axios from "axios";
 
 export default function CountryStoryPage() {

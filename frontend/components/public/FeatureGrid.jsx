@@ -4,8 +4,8 @@
 
 import React, { useContext, useEffect } from "react";
 import { useTranslation } from "react-i18next";
-import { ToneContext } from "@/contexts/ToneContext";
-import { logPromptInteraction } from "@/utils/analytics";
+import { ToneContext } from "../../contexts/ToneContext";
+import { logPromptInteraction } from "../../utils/analytics";
 import { AuthContext } from "../../contexts/AuthContext";
 
 const FeatureGrid = () => {

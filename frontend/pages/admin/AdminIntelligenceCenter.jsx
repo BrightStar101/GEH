@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import AgentTogglePanel from "@/components/admin/AgentTogglePanel.jsx";
-import UpgradePerformanceChart from "@/components/admin/UpgradePerformanceChart.jsx";
-import ModelDriftWarningBanner from "@/components/admin/ModelDriftWarningBanner.jsx";
+import AgentTogglePanel from "../../components/admin/AgentTogglePanel.jsx";
+import UpgradePerformanceChart from "../../components/admin/UpgradePerformanceChart.jsx";
+import ModelDriftWarningBanner from "../../components/admin/ModelDriftWarningBanner.jsx";
 import axios from "axios";
 
 /**

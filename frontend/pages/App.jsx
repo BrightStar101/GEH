@@ -8,8 +8,8 @@ import { Toaster } from 'react-hot-toast';
 import CountryStoryPage from "./public/CountryStoryPage";
 import SeoRedirect from "./public/seoRedirect";
 import NotFoundPage from "./public/404";
-import ScrollToTop from "@/components/ScrollToTop";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet";
+import ScrollToTop from "../components/ScrollToTop";
+import GlobalMetaHelmet from "../components/GlobalMetaHelmet";
 import Mira from "./public/Mira"; // ✅ PATCHED: Mira AI assistant interface
 import Login from "./public/Login";
 import LandingPage from "./public/landingPage";

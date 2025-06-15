@@ -2,10 +2,10 @@
 
 import React, { useContext, useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import FooterNavigation from "@/components/public/FooterNavigation";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet";
-import { logGptUsage } from "@/utils/usageLoggerUtils";
-import SupportQuestionBar from "@/components/shared/SupportQuestionBar";
+import FooterNavigation from "../../components/public/FooterNavigation";
+import GlobalMetaHelmet from "../../components/GlobalMetaHelmet";
+import { logGptUsage } from "../../utils/usageLoggerUtils";
+import SupportQuestionBar from "../../components/shared/SupportQuestionBar";
 import { AuthContext } from "../../contexts/AuthContext";
 import axios from "axios";
 import PurchasePromptModal from "../../components/user/PurchasePromptModal";

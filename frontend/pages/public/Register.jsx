@@ -3,8 +3,8 @@
 
 import React, { useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet";
-import FooterNavigation from "@/components/public/FooterNavigation";
+import GlobalMetaHelmet from "../../components/GlobalMetaHelmet";
+import FooterNavigation from "../../components/public/FooterNavigation";
 import axios from "axios";
 import { AuthContext } from "../../contexts/AuthContext";
 

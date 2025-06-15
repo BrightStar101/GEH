@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import MetaHead from "@/components/public/MetaHead";
-import FooterNavigation from "@/components/public/FooterNavigation";
+import MetaHead from "../../components/public/MetaHead";
+import FooterNavigation from "../../components/public/FooterNavigation";
 import analyticsTracker from "../../utils/analyticsTracker";
 
 /**

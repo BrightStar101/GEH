@@ -9,7 +9,7 @@ import TryMiraPage from "../pages/try-mira";
 import PurchasePage from "../pages/purchase";
 import ExportMyDataPage from "../pages/export-my-data";
 import NotFoundPage from "../pages/404";
-import KairoComingSoon from "@/components/kairo/KairoComingSoon";
+import KairoComingSoon from "../kairo/KairoComingSoon";
 import { useLanguageContext } from "../hooks/useLanguageContext";
 
 /**

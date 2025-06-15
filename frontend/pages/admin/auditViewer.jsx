@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
-import AdminTopBar from "@/components/admin/AdminTopBar";
-import LogEntryRow from "@/components/admin/LogEntryRow";
+import AdminTopBar from "../../components/admin/AdminTopBar";
+import LogEntryRow from "../../components/admin/LogEntryRow";
 import { getAuditLogs } from "../../services/auditLogService";
 import { exportCsv } from "../../utils/exportCsv";
 import { logger } from "../../utils/logger";

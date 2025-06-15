@@ -3,9 +3,9 @@
 
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import HeaderNav from "@/components/shared/HeaderNav";
-import FooterNavigation from "@/components/public/FooterNavigation";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet";
+import HeaderNav from "../../components/shared/HeaderNav";
+import FooterNavigation from "../../components/public/FooterNavigation";
+import GlobalMetaHelmet from "../../components/GlobalMetaHelmet";
 import { jwtDecode } from "jwt-decode";
 import axios from "axios";
 

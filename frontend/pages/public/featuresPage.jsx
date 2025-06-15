@@ -2,9 +2,9 @@
 // Purpose: Showcases core platform features and tech differentiators of Global Entry Hub
 
 import React, { useEffect } from "react";
-import MetaHead from "@/components/public/MetaHead";
-import FeatureGrid from "@/components/public/FeatureGrid";
-import FooterNavigation from "@/components/public/FooterNavigation";
+import MetaHead from "../../components/public/MetaHead";
+import FeatureGrid from "../../components/public/FeatureGrid";
+import FooterNavigation from "../../components/public/FooterNavigation";
 import analyticsTracker from "../../utils/analyticsTracker";
 
 /**

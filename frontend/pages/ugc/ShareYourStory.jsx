@@ -3,7 +3,7 @@
 
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import MetaHead from "@/components/public/MetaHead";
+import MetaHead from "../../components/public/MetaHead";
 import axios from "axios";
 
 /**

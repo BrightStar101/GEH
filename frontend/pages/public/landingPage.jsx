@@ -2,16 +2,16 @@ import React, { useEffect, useState, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
-import MetaHead from "@/components/public/MetaHead";
-import HeroBanner from "@/components/public/HeroBanner";
-import ValuePropStats from "@/components/public/ValuePropStats";
-import FeatureGrid from "@/components/public/FeatureGrid";
-import PricingPlanCard from "@/components/public/PricingPlanCard";
-import TrustStatsPanel from "@/components/public/TrustStatsPanel";
-import TestimonialsCarousel from "@/components/public/TestimonialsCarousel";
-import LanguageToggle from "@/components/public/LanguageToggle";
-import FooterNavigation from "@/components/public/FooterNavigation";
-import ComplianceBadge from "@/components/public/ComplianceBadge";
+import MetaHead from "../../components/public/MetaHead";
+import HeroBanner from "../../components/public/HeroBanner";
+import ValuePropStats from "../../components/public/ValuePropStats";
+import FeatureGrid from "../../components/public/FeatureGrid";
+import PricingPlanCard from "../../components/public/PricingPlanCard";
+import TrustStatsPanel from "../../components/public/TrustStatsPanel";
+import TestimonialsCarousel from "../../components/public/TestimonialsCarousel";
+import LanguageToggle from "../../components/public/LanguageToggle";
+import FooterNavigation from "../../components/public/FooterNavigation";
+import ComplianceBadge from "../../components/public/ComplianceBadge";
 
 import analyticsTracker from "../../utils/analyticsTracker";
 import languageSupportConfig from "../../config/languageSupportConfig";

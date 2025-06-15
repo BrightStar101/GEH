@@ -2,10 +2,10 @@
 // Purpose: Renders the global /stories page with filters, pagination, and hero story display
 
 import React, { useEffect, useState } from "react";
-import FeaturedStoryHero from "@/components/public/FeaturedStoryHero.jsx";
-import StoryCard from "@/components/public/StoryCard.jsx";
-import StoryFilters from "@/components/public/StoryFilters.jsx";
-import MetaHead from "@/components/public/MetaHead.jsx";
+import FeaturedStoryHero from "../../components/public/FeaturedStoryHero.jsx";
+import StoryCard from "../../components/public/StoryCard.jsx";
+import StoryFilters from "../../components/public/StoryFilters.jsx";
+import MetaHead from "../../components/public/MetaHead.jsx";
 import axios from "axios";
 
 /**

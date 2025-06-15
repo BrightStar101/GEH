@@ -3,9 +3,9 @@
 
 import React, { useContext, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import MetaHead from "@/components/public/MetaHead";
-import PricingPlanCard from "@/components/public/PricingPlanCard";
-import FooterNavigation from "@/components/public/FooterNavigation";
+import MetaHead from "../../components/public/MetaHead";
+import PricingPlanCard from "../../components/public/PricingPlanCard";
+import FooterNavigation from "../../components/public/FooterNavigation";
 import analyticsTracker from "../../utils/analyticsTracker";
 import pricingTiers from "../../config/pricingTiersConfig";
 import { AuthContext } from "../../contexts/AuthContext";

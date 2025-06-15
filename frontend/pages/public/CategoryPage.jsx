@@ -4,8 +4,8 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { Helmet, HelmetProvider } from 'react-helmet-async';
-import StoryCard from "@/components/public/StoryCard.jsx";
-import FeaturedStoryBanner from "@/components/public/FeaturedStoryBanner.jsx";
+import StoryCard from "../../components/public/StoryCard.jsx";
+import FeaturedStoryBanner from "../../components/public/FeaturedStoryBanner.jsx";
 import axios from "axios";
 
 /**

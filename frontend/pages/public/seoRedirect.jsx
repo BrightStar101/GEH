@@ -3,7 +3,7 @@ import { useLocation } from "react-router-dom";
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import seoRedirectConfig from "../../config/seoRedirectConfig";
 import analyticsTracker from "../../utils/analyticsTracker";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet"; // ✅ Added
+import GlobalMetaHelmet from "../../components/GlobalMetaHelmet"; // ✅ Added
 
 export default function SeoRedirect() {
   const location = useLocation();

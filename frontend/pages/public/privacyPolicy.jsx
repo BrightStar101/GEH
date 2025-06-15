@@ -2,8 +2,8 @@
 // Purpose: Renders Global Entry Hub's Privacy Policy in full compliance with GDPR, CCPA, and internal platform controls
 
 import React, { useEffect } from "react";
-import MetaHead from "@/components/public/MetaHead";
-import FooterNavigation from "@/components/public/FooterNavigation";
+import MetaHead from "../../components/public/MetaHead";
+import FooterNavigation from "../../components/public/FooterNavigation";
 import analyticsTracker from "../../utils/analyticsTracker";
 
 /**

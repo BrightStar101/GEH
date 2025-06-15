@@ -2,10 +2,10 @@
 
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import GlobalMetaHelmet from "@/components/GlobalMetaHelmet";
-import HeaderNav from "@/components/shared/HeaderNav";
-import FooterNavigation from "@/components/public/FooterNavigation";
-import { checkTierAccess } from "@/middleware/tierAccessClient"; // ✅ New
+import GlobalMetaHelmet from "../../components/GlobalMetaHelmet";
+import HeaderNav from "../../components/shared/HeaderNav";
+import FooterNavigation from "../../components/public/FooterNavigation";
+import { checkTierAccess } from "../../middleware/tierAccessClient"; // ✅ New
 import axios from "axios";
 
 export default function FormEntry() {

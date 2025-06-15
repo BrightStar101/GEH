@@ -3,7 +3,7 @@
 
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
-import StoryCard from "@/components/public/StoryCard.jsx";
+import StoryCard from "../../components/public/StoryCard.jsx";
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import axios from "axios";
 

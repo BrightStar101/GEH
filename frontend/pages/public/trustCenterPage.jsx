@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import MetaHead from "@/components/public/MetaHead";
-import FooterNavigation from "@/components/public/FooterNavigation";
-import ComplianceBadge from "@/components/public/ComplianceBadge";
+import MetaHead from "../../components/public/MetaHead";
+import FooterNavigation from "../../components/public/FooterNavigation";
+import ComplianceBadge from "../../components/public/ComplianceBadge";
 import analyticsTracker from "../../utils/analyticsTracker";
 import axios from "axios";
 
