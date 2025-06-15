@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "immigrationai",
+  "private_key_id": "06988245cd6ddf8245a2b83a6bcdad80850301a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaw121BsTGRqNL\nDIHHkIXeYCnD9aRvWOPrcscG579Py6q+w2gX8+wf3A8ql3nL2nEP9hOMwpr190T6\naUaakUpUnBsZSK/3mD5goAggVdVbVgI4QCgcXVmW18KVtYxAiJhprQRW0jMRe3Oi\nrYE5BZPkufw9dy+UreNmu3t073QMRncdjsPUGY6MH1u8eolyDNteMUQgyW3t5Y2s\nkOGErlgmkHCfBPlCCAKpDEoVJcaqKKlUUuwr1jUYW+1EJnr2vW8N1NuIX8YODu97\ntewoESdSwX3jTidLw129DQUZBAKk+R4CGAtoY7fg3a8vdjhbk/P4pYi1inrTiDOs\nwgM2QOFdAgMBAAECggEAY+L4koO4rV/rh4T6bQjMVzFJYLR0lHLd/s+1mK2QaPrx\nx5CpouY5VoLAWg44CqB/J26QlqD06IIy+LPBDSpx6hgtN2o9DqxxLuVjUIBgnwey\nk8SXi/wDwCBcNMdkdsLn9LiPVqU7tCvOLOVUL5kgYjuZtOcKzrRnNK0+PbJoJoHd\n9d1DkmR0XWOv13ecrFbTHe1/dXqexDyfsy9HOBRdIl0XDVSysRmYPkTjULNACdRV\nAC7iVUkV4ry0pDkmuMfdb1E8+Suc6x82xcSnnKxSrfT3VlaMMyIv7BG225Vk6WQm\nP9etfD0bce0CkbwpAHHwMoh2vyfmIgqCRTzIDgQpcQKBgQD1vsiahi8ZC3XcyLge\nENVnwhhniF9Q63HKNU0ZiQ1wPUb6+BHTOVV987UzsoiooGj6h4bOJmeHcRHBDPEm\neUg53NeXF8M9yg6TV1dGKOsJY+fCGP/verMVx1tovORc4KcvO+Qko9B4XhqA1CIW\nQYm993ZZEA0zcKxk/z2g9WC4XwKBgQDj5FdpvlzVPAQrHtAbM+Eef4SklgBWTb3Q\n80CuSge6CHoBdFcsavDJj2orLWnzu58MAswqB+90k3RExxaTRGzW0czyOQh6hR74\nfCYjrOsyEbCFhfO39M2YJvTlgtvI9Jht1U++w+/iaAhepuW3S7yGqD2mdiy2wXi0\nF0yg2iUvwwKBgA6TPTSlBsAWhOwOX5Uw7GdWBLqHRRf4juwuUx9TmJ9ykvYppmz/\ntolc3f9t9FsEAJXzWdR6RKOs2h+4E8lzYgxEg+jrOOI+TLUCdiOsI5yP91v0vaFH\nhr2g8FP6+BRmIqRTigl+ScwJ0MqZSlhFlNTWi4dmw1GsuhzXYqFcTFtDAoGAZCuv\nfKyPU69gya9unDZuoqA8prfEiCr934W9DZ8+zDgDoPYJh12uX3qpmTcKFneHDpmA\nMo1wZNaXyc+VDcCK8tYfdu0429n95g10GkRc0ZJS/C4IFfkGEfY1uViO0UMqaUTV\nG642mFdQLoLAAJTK1onHJ49UUjSyoL6JET8yD08CgYEAsj8YmegPKVT6l9qwmSFg\nz/5grf5Bd4MhBXYkJdUaEJHWHgNlzrkjjavJq2lncAR9M1nHEppxJZtrSoRuVRnD\n8f4bxZ3S/WbQk36RQUC7uMUwfDjmKpe69pjZ7YnyRD/GLrDuJsDkQG5aAEyt6R6j\n/h/O8d3gn3WVfKVWq807gw8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dev-access-immigrationai-iam-g@immigrationai.iam.gserviceaccount.com",
+  "client_id": "104515873812528932125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dev-access-immigrationai-iam-g%40immigrationai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
