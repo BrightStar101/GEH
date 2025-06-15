@@ -14,13 +14,13 @@ const path = require('path');
 const logger = require('../utils/loggerUtils');
 
 // Load known-good factual baseline
-const BASELINE_FILE = path.join(__dirname, '../../config/ai-baseline-rules.json');
+// const BASELINE_FILE = path.join(__dirname, '../../config/ai-baseline-rules.json');
 let BASELINE_KNOWLEDGE = [];
 
 try {
-  const raw = fs.readFileSync(BASELINE_FILE, 'utf8');
-  BASELINE_KNOWLEDGE = JSON.parse(raw);
-  logger.logInfo(`DriftMonitor: Loaded ${BASELINE_KNOWLEDGE.length} baseline entries.`);
+  // const raw = fs.readFileSync(BASELINE_FILE, 'utf8');
+  // BASELINE_KNOWLEDGE = JSON.parse(raw);
+  // logger.logInfo(`DriftMonitor: Loaded ${BASELINE_KNOWLEDGE.length} baseline entries.`);
 } catch (err) {
   logger.logError('DriftMonitor: Failed to load AI baseline facts.', err);
   BASELINE_KNOWLEDGE = [];
