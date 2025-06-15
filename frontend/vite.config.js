@@ -12,6 +12,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: 3000,
-    allowedHosts: ['https://geh-2.onrender.com']
+    allowedHosts: ['geh-2.onrender.com']
   },
 });
