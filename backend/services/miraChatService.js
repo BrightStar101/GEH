@@ -113,7 +113,7 @@ async function generateMiraResponse({ userId, message, language }) {
     };
   } catch (err) {
     logError('Error generating Mira response:', err);
-    return { error: 'Internal error. Please try again later.', err };
+    return { error: 'Internal error. Please try again later.', err: JSON.stringify(err) };
   }
 }
 
