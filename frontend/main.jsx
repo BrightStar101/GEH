@@ -31,7 +31,7 @@ function mountApplication() {
       // </React.StrictMode>
     );
   } catch (err) {
-    console.error("GEH Fatal Mount Error:", err);
+    console.error("GEH Fatal Mount Error:", err); 
     document.body.innerHTML =
       "<main style='display:flex;align-items:center;justify-content:center;height:100vh;text-align:center;font-family:sans-serif'><div><h1>Startup Failure</h1><p>An unexpected error occurred while launching the app. Please try again or contact support.</p></div></main>";
   }
