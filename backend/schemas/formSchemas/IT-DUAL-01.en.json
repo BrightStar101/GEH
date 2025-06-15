@@ -1,0 +1,30 @@
+{
+  "formId": "IT-DUAL-01",
+  "title": "Request for Dual Citizenship Recognition (Italy)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Your full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "italian_ancestor_name",
+      "label": "Name of Italian ancestor",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_certificate_uploaded",
+      "label": "Have you uploaded your birth certificate?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residence_country",
+      "label": "Your current country of residence",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

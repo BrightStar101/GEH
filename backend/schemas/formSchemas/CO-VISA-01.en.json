@@ -1,0 +1,24 @@
+{
+  "formId": "CO-VISA-01",
+  "title": "Colombia Migrant Visa (Tipo M) Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "reason_for_visa",
+      "label": "Purpose of migration (e.g., work, marriage)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Planned date of arrival in Colombia",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

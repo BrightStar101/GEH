@@ -1,0 +1,30 @@
+{
+  "formId": "ET-HUM-VISA-01",
+  "title": "Ethiopia Humanitarian Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "organization_sponsoring",
+      "label": "Name of sponsoring organization (if any)",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "purpose_of_visit",
+      "label": "Reason for humanitarian travel",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "planned_arrival_date",
+      "label": "Planned arrival date",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

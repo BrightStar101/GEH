@@ -1,0 +1,30 @@
+{
+  "formId": "AU-PARTNER-01",
+  "title": "Australia Partner Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Partner's full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "sponsor_name",
+      "label": "Sponsor's name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship_length",
+      "label": "Length of relationship (months)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "shared_residence",
+      "label": "Do you live together currently?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

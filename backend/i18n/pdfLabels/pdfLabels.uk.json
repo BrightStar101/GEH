@@ -1,0 +1,18 @@
+{
+  "__title": "Зведення імміграційної форми",
+  "fullName": "Повне Ім’я",
+  "dateOfBirth": "Дата Народження",
+  "countryOfOrigin": "Країна Походження",
+  "passportNumber": "Номер Паспорта",
+  "email": "Електронна Пошта",
+  "phoneNumber": "Номер Телефону",
+  "address": "Адреса",
+  "visaType": "Тип Візи",
+  "intendedArrivalDate": "Очікувана Дата Прибуття",
+  "formPurpose": "Мета Подання",
+  "dependents": "Кількість Утриманців",
+  "languagePreference": "Бажана Мова",
+  "employmentStatus": "Статус Зайнятості",
+  "educationLevel": "Освітній Рівень",
+  "notes": "Додаткові Примітки"
+}

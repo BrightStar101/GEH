@@ -1,0 +1,18 @@
+{
+  "__title": "Buod ng Immigration Form",
+  "fullName": "Buong Pangalan",
+  "dateOfBirth": "Petsa ng Kapanganakan",
+  "countryOfOrigin": "Bansang Pinagmulan",
+  "passportNumber": "Numero ng Pasaporte",
+  "email": "Email",
+  "phoneNumber": "Numero ng Telepono",
+  "address": "Tirahan",
+  "visaType": "Uri ng Visa",
+  "intendedArrivalDate": "Inaasahang Petsa ng Pagdating",
+  "formPurpose": "Layunin ng Aplikasyon",
+  "dependents": "Bilang ng mga Dependents",
+  "languagePreference": "Nais na Wika",
+  "employmentStatus": "Kalagayan sa Trabaho",
+  "educationLevel": "Antas ng Edukasyon",
+  "notes": "Karagdagang Tala"
+}

@@ -1,0 +1,30 @@
+{
+  "formId": "PH-STU-NBI-01",
+  "title": "Philippines NBI Clearance for Student Visa",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_date",
+      "label": "Date of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "nbi_center_selected",
+      "label": "Preferred NBI clearance center",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "purpose",
+      "label": "Purpose of NBI clearance",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

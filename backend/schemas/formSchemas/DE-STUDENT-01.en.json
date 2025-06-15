@@ -1,0 +1,30 @@
+{
+  "formId": "DE-STUDENT-01",
+  "title": "Germany Student Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "university_accepted",
+      "label": "Name of German university or school",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "blocked_account_opened",
+      "label": "Do you have a blocked bank account?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "course_start_date",
+      "label": "Start date of course",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

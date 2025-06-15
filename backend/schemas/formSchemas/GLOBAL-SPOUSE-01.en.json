@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-SPOUSE-01",
+  "title": "Spouse/Partner Visa Application Template",
+  "questions": [
+    {
+      "name": "sponsor_name",
+      "label": "Name of your spouse/partner",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship_duration_years",
+      "label": "How long have you been in this relationship? (years)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "married_or_not",
+      "label": "Are you legally married?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "shared_residency",
+      "label": "Do you live at the same address?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-BIZ-01",
+  "title": "Business Visa Application (Universal Template)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "business_invitation_uploaded",
+      "label": "Have you uploaded an invitation letter?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "company_name",
+      "label": "Name of company you are visiting",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "meeting_date",
+      "label": "Date of meeting or conference",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

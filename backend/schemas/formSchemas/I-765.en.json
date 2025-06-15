@@ -1,0 +1,36 @@
+{
+  "formId": "I-765",
+  "title": "Application for Employment Authorization",
+  "questions": [
+    {
+      "name": "applicant_full_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "uscis_number",
+      "label": "USCIS number (if any)",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "eligibility_category",
+      "label": "Eligibility category (e.g., C09, A05)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "last_entry_date",
+      "label": "Date of last entry into the U.S.",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "entry_status",
+      "label": "Status at time of last entry",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

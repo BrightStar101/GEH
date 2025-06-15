@@ -1,0 +1,30 @@
+{
+  "formId": "UK-GV-01",
+  "title": "UK Graduate Visa Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "degree_completed",
+      "label": "Degree or qualification completed",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "date_of_graduation",
+      "label": "Graduation date",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "university_name",
+      "label": "University or institution name",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

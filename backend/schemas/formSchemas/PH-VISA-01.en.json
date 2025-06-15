@@ -1,0 +1,30 @@
+{
+  "formId": "PH-VISA-01",
+  "title": "Philippine Tourist Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "length_of_stay",
+      "label": "Intended length of stay (days)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "sponsor_name",
+      "label": "Name of local sponsor (if any)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

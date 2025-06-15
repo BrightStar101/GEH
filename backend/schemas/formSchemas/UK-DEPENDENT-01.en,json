@@ -1,0 +1,30 @@
+{
+  "formId": "UK-DEPENDENT-01",
+  "title": "UK Dependent Visa Application (Tier 2/4)",
+  "questions": [
+    {
+      "name": "main_applicant_name",
+      "label": "Name of main applicant",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "dependent_name",
+      "label": "Name of dependent",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship_to_applicant",
+      "label": "Relationship to the main applicant",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "dependent_birth_date",
+      "label": "Dependent's date of birth",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

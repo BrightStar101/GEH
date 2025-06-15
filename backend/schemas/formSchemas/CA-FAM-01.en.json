@@ -1,0 +1,30 @@
+{
+  "formId": "CA-FAM-01",
+  "title": "Canada Family Sponsorship Application",
+  "questions": [
+    {
+      "name": "sponsor_name",
+      "label": "Name of sponsor",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "beneficiary_name",
+      "label": "Name of family member being sponsored",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship",
+      "label": "Relationship to sponsor",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "address_in_canada",
+      "label": "Sponsor's address in Canada",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

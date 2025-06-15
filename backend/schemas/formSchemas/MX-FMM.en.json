@@ -1,0 +1,36 @@
+{
+  "formId": "MX-FMM",
+  "title": "Mexico Tourist Entry Form (Forma Migratoria Múltiple)",
+  "questions": [
+    {
+      "name": "name",
+      "label": "Full name as shown in passport",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "nationality",
+      "label": "Nationality",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Intended date of entry into Mexico",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "length_of_stay_days",
+      "label": "Number of days you will stay",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

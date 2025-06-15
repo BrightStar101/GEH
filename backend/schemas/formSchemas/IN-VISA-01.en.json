@@ -1,0 +1,36 @@
+{
+  "formId": "IN-VISA-01",
+  "title": "India Tourist Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name as in passport",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_expiry",
+      "label": "Passport expiry date",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "purpose_of_visit",
+      "label": "Purpose of travel to India",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "has_visited_india",
+      "label": "Have you visited India before?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "intended_entry_port",
+      "label": "Port of entry",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

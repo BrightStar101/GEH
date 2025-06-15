@@ -1,0 +1,30 @@
+{
+  "formId": "ZA-VISA-01",
+  "title": "South Africa Visitor Visa Application",
+  "questions": [
+    {
+      "name": "name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "visit_reason",
+      "label": "Purpose of visit",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "duration_days",
+      "label": "Intended stay duration (days)",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

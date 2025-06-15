@@ -1,0 +1,36 @@
+{
+  "formId": "CA-PNP-01",
+  "title": "Canada Provincial Nominee Program Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name of applicant",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "province_selected",
+      "label": "Province or territory selected",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "job_offer",
+      "label": "Do you have a valid job offer in that province?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "education_level",
+      "label": "Highest level of education completed",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "language_test_score",
+      "label": "Most recent language test score (IELTS, TEF, etc.)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

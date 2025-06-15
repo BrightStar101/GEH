@@ -1,0 +1,30 @@
+{
+  "formId": "DE-VISA-01",
+  "title": "Germany National Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "visa_type",
+      "label": "Type of visa requested (e.g., work, study)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "planned_residence_duration",
+      "label": "Planned duration of residence (months)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "has_accommodation",
+      "label": "Do you have arranged accommodation in Germany?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

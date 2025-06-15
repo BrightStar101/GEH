@@ -1,0 +1,36 @@
+{
+  "formId": "N-400",
+  "title": "Application for Naturalization",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residence_since",
+      "label": "Date you became a permanent resident",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "travel_outside_us",
+      "label": "Have you traveled outside the U.S. in the last 5 years?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "english_fluency",
+      "label": "Can you read, write, and speak basic English?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "oath_willingness",
+      "label": "Are you willing to take the Oath of Allegiance?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

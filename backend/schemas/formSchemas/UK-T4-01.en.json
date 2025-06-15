@@ -1,0 +1,30 @@
+{
+  "formId": "UK-T4-01",
+  "title": "UK Student Visa (Tier 4) Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "cas_number",
+      "label": "Confirmation of Acceptance for Studies (CAS) number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "institution_name",
+      "label": "Name of university or institution",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "intended_course_start",
+      "label": "Intended course start date",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

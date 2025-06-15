@@ -1,0 +1,30 @@
+{
+  "formId": "BR-RNM-01",
+  "title": "Brazil Registro Nacional Migratório (RNM) Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residence_reason",
+      "label": "Reason for residency",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "brazil_entry_date",
+      "label": "Date of entry into Brazil",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

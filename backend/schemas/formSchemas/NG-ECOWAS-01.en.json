@@ -1,0 +1,30 @@
+{
+  "formId": "NG-ECOWAS-01",
+  "title": "Nigeria ECOWAS Travel Certificate",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name of applicant",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_country",
+      "label": "Country of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residential_address",
+      "label": "Current residential address in Nigeria",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_photo_uploaded",
+      "label": "Have you uploaded a passport-sized photo?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

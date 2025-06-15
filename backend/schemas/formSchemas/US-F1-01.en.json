@@ -1,0 +1,30 @@
+{
+  "formId": "US-F1-01",
+  "title": "F-1 Student Visa Interview Sheet",
+  "questions": [
+    {
+      "name": "student_name",
+      "label": "Full name (as in passport)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "sevis_id",
+      "label": "SEVIS ID number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "i20_school_name",
+      "label": "School listed on I-20",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "intended_start_date",
+      "label": "Intended program start date",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

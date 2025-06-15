@@ -1,0 +1,30 @@
+{
+  "formId": "DE-MELDUNG-01",
+  "title": "Germany Residence Registration (Anmeldung)",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name of resident",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "address",
+      "label": "Street address of new residence",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "landlord_confirmation_uploaded",
+      "label": "Have you uploaded landlord confirmation?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Date of entry into residence",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

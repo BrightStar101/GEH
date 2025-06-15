@@ -1,0 +1,10 @@
+{
+  "mira": {
+    "low_confidence": ["fallbackUsed", "intentMismatch", "lowScore"],
+    "high_risk": ["manualOverride", "complianceEscalation"]
+  },
+  "kairo": {
+    "low_confidence": ["goalDrift", "budgetMismatch"],
+    "high_risk": ["dataConflict", "abandonmentSpike"]
+  }
+}

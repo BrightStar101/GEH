@@ -1,0 +1,182 @@
+{
+  "dashboard": {
+    "title": "Your PDF Dashboard",
+    "subtitle": "Access plan:",
+    "download": "Download PDF",
+    "noFiles": "No files available.",
+    "defaultLabel": "Untitled Submission",
+    "loading": "Loading your PDFs...",
+    "loadError": "Failed to load your files. Please refresh.",
+    "flagged": "This file is flagged for audit.",
+    "expired": "This file has expired.",
+    "auditPending": "Audit Pending"
+  },
+  "checkout": {
+    "title": "Choose Your Access Plan",
+    "subtitle": "Select a plan and checkout securely via Stripe or PayPal.",
+    "processing": "Processing...",
+    "redirecting": "Redirecting...",
+    "buttonStripe": "Checkout with Stripe",
+    "buttonPayPal": "Checkout with PayPal",
+    "selected": "You’ve selected:",
+    "accessDuration": "Access Duration",
+    "tokenCap": "Token Cap",
+    "supportLimit": "Support Prompts",
+    "errorFallback": "Unable to complete checkout.",
+    "errorStripe": "Stripe checkout failed.",
+    "errorPayPal": "PayPal failed to initialize.",
+    "confidence": "Confidence",
+    "retry": "Try again",
+    "limitWarning": "This tier only supports a limited number of prompts.",
+    "expiredAccess": "Your access period has ended. Please upgrade to continue."
+  },
+  "mira": {
+    "hero": "Your personal AI-powered immigration expert",
+    "note": "Mira helps you fill out forms — she does not speed up government processing.",
+    "legalReminder": "Your results depend on the official agency's timeline.",
+    "start": "Ask Mira a question",
+    "disclaimer": "Mira is not a lawyer. She cannot provide legal advice. This platform is for document preparation and AI support only."
+  },
+  "prompt": {
+    "confidenceLabel": "Confidence",
+    "helpful": "Helpful",
+    "notHelpful": "Not helpful",
+    "thanks": "Thanks for your feedback!",
+    "feedbackFail": "Failed to save feedback.",
+    "retry": "Try another prompt"
+  },
+  "pdf": {
+    "downloadLimitReached": "You’ve reached your current plan’s download limit.",
+    "upgradeToAccess": "Upgrade your plan to unlock additional downloads.",
+    "expiresSoon": "Expiring soon",
+    "deleted": "This file is no longer available.",
+    "expiresIn": "Expires in",
+    "days": "days",
+    "expired": "This file has expired"
+  },
+  "error": {
+    "notFound": "Page not found.",
+    "generic": "Something went wrong.",
+    "suggestion": "Please try again or return to the homepage.",
+    "backHome": "Back to Home",
+    "authExpired": "Your session has expired.",
+    "invalidToken": "Invalid or expired token.",
+    "serverDown": "We’re currently experiencing technical difficulties.",
+    "retryLater": "Please try again in a few minutes."
+  },
+  "success": {
+    "title": "Your Plan is Active",
+    "description": "You can now access your full AI features and download completed forms.",
+    "nextSteps": "Next Steps",
+    "dashboardCTA": "Go to Dashboard"
+  },
+  "landing": {
+    "heroHeadline": "Immigration made simple.",
+    "heroSubhead": "Fast. Affordable. Trusted.",
+    "getStarted": "Get Started",
+    "tryMira": "Try Mira Now",
+    "value1": "5x Faster",
+    "value2": "$700+ Saved Per Case",
+    "value3": "99.2% Accuracy",
+    "value4": "1-on-1 AI Multilingual Support"
+  },
+  "about": {
+    "missionTitle": "Our Mission",
+    "mission": "We believe immigration is a right, not a luxury. Our mission is to give every family the power to move forward — with clarity, dignity, and trusted support.",
+    "whyBuilt": "Why We Built Mira",
+    "vision": "Our Vision",
+    "values": {
+      "clarity": "Clarity and empowerment",
+      "accuracy": "AI trained for verified accuracy",
+      "compassion": "Compassionate support for every journey"
+    }
+  },
+  "trust": {
+    "title": "Trust & Transparency",
+    "scoreTitle": "Accuracy Score",
+    "uptime": "Platform Uptime",
+    "secureData": "Your data is encrypted and stored securely.",
+    "auditReady": "This platform is audit-ready and compliant with global privacy standards.",
+    "compliance": "Compliant with GDPR, CCPA, and global data privacy laws.",
+    "encrypted": "All documents are stored with end-to-end encryption.",
+    "auditTrail": "Audit trail enabled for all sensitive operations."
+  },
+  "support": {
+    "title": "Need Help?",
+    "emailIntro": "For questions about forms, billing, or technical issues, please reach out:",
+    "responseTime": "Our team typically responds within 24–48 hours.",
+    "prompts": {
+      "question1": "How do I start a form?",
+      "answer1": "Click on any form from your dashboard. Mira will walk you through it.",
+      "question2": "How do I upgrade my plan?",
+      "answer2": "Go to the pricing page and choose your preferred plan.",
+      "question3": "Can I talk to someone?",
+      "answer3": "Yes — contact support@globalentryhub.com for urgent matters."
+    },
+    "chatUnavailable": "Chat is currently offline. Try again later.",
+    "formIssue": "Having trouble with this form?",
+    "emailUs": "Email us at support@globalentryhub.com"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "disclaimer": "This platform does not offer legal advice. It provides AI-guided document preparation and support only.",
+    "refundPolicy": "Refunds are only available within 72 hours of purchase if no forms were submitted.",
+    "license": "Your use of this platform is governed by the GEH license agreement."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "summary": "We value your privacy. This policy explains how we collect, use, and protect your data.",
+    "gdpr": "You have the right to request deletion or export of your data at any time.",
+    "contact": "Contact privacy@globalentryhub.com for concerns."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "support": "Support",
+    "purchase": "Purchase",
+    "logout": "Log out",
+    "tryMira": "Try Mira"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "trust": "Trust & Security",
+    "support": "Contact Support",
+    "legal": "All content © Global Entry Hub. All rights reserved.",
+    "security": "Security Overview",
+    "dataExport": "Export My Data",
+    "languageSelector": "Language",
+    "cookies": "Cookie Settings"
+  },
+  "redirect": {
+    "title": "Redirecting...",
+    "description": "You’re being redirected. If it doesn’t happen automatically, click below.",
+    "clickHere": "Click here"
+  },
+  "enhancements": {
+    "title": "Upcoming Enhancements",
+    "subtitle": "What’s coming next for Global Entry Hub",
+    "kairoLaunch": "Kairo (Finance Assistant) launching soon",
+    "languageExpansions": "More languages coming every month",
+    "merchLine": "Mira merch store coming soon!"
+  },
+  "plan": {
+    "free": "First Form Free",
+    "starter": "Starter Kit",
+    "official": "Official Pack",
+    "family": "Friends & Family Plan"
+  },
+  "pricing": {
+    "free": {
+      "description": "Fill out one form at no cost — no AI support included."
+    },
+    "starter": {
+      "description": "Perfect for quick needs — get Mira's help for 24 hours."
+    },
+    "official": {
+      "description": "For serious planning — 3 days of AI support with 20 forms."
+    },
+    "family": {
+      "description": "For big journeys — full access with 60 forms and 1 week of Mira."
+    }
+  }
+}

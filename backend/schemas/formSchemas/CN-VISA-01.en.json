@@ -1,0 +1,30 @@
+{
+  "formId": "CN-VISA-01",
+  "title": "Chinese Tourist Visa Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_issue_place",
+      "label": "Passport issued at (city/country)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "invitation_letter",
+      "label": "Do you have an invitation letter from China?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "intended_duration",
+      "label": "Duration of stay (in days)",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

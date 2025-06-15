@@ -1,0 +1,30 @@
+{
+  "formId": "AR-DNI-01",
+  "title": "Argentina DNI for Foreigners Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residency_type",
+      "label": "Type of residency (temporary/permanent)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Date of last entry into Argentina",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

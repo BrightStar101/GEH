@@ -1,0 +1,36 @@
+{
+  "formId": "CA-EE-01",
+  "title": "Canada Express Entry Profile Submission",
+  "questions": [
+    {
+      "name": "name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_country",
+      "label": "Country of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "work_experience_years",
+      "label": "Years of full-time skilled work experience",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "education_level",
+      "label": "Highest completed education",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "language_test_score",
+      "label": "CLB or IELTS score",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

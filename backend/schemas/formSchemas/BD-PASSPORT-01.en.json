@@ -1,0 +1,30 @@
+{
+  "formId": "BD-PASSPORT-01",
+  "title": "Bangladesh Machine Readable Passport Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "father_name",
+      "label": "Father's name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "mother_name",
+      "label": "Mother's name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "permanent_address",
+      "label": "Permanent address in Bangladesh",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

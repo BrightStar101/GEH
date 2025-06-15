@@ -1,0 +1,12 @@
+{
+  "applicant_name": "姓名",
+  "passport_number": "护照号码",
+  "birth_date": "出生日期",
+  "nationality": "国籍",
+  "country_of_birth": "出生国家",
+  "relationship": "关系",
+  "purpose_of_visit": "访问目的",
+  "entry_date": "入境日期",
+  "duration_days": "停留时间（天）",
+  "email": "电子邮件地址"
+}

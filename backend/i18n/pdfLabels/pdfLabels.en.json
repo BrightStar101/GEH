@@ -1,0 +1,18 @@
+{
+  "__title": "Immigration Form Summary",
+  "fullName": "Full Name",
+  "dateOfBirth": "Date of Birth",
+  "countryOfOrigin": "Country of Origin",
+  "passportNumber": "Passport Number",
+  "email": "Email",
+  "phoneNumber": "Phone Number",
+  "address": "Address",
+  "visaType": "Visa Type",
+  "intendedArrivalDate": "Intended Arrival Date",
+  "formPurpose": "Purpose of Application",
+  "dependents": "Number of Dependents",
+  "languagePreference": "Preferred Language",
+  "employmentStatus": "Employment Status",
+  "educationLevel": "Education Level",
+  "notes": "Additional Notes"
+}

@@ -1,0 +1,12 @@
+{
+  "applicant_name": "الاسم الكامل",
+  "passport_number": "رقم جواز السفر",
+  "birth_date": "تاريخ الميلاد",
+  "nationality": "الجنسية",
+  "country_of_birth": "بلد الميلاد",
+  "relationship": "العلاقة",
+  "purpose_of_visit": "غرض الزيارة",
+  "entry_date": "تاريخ الدخول",
+  "duration_days": "مدة الإقامة (بالأيام)",
+  "email": "عنوان البريد الإلكتروني"
+}

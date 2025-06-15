@@ -1,0 +1,32 @@
+{
+  "statuses": [
+    "sent",
+    "queued",
+    "failed",
+    "bounced",
+    "unsubscribed",
+    "blocked"
+  ],
+  "allowedWaves": [1, 2, 3, 4, 5],
+  "funnelStages": [
+    "free_user",
+    "paid_user",
+    "ugc_submitter",
+    "partner",
+    "unknown"
+  ],
+  "templateIds": [
+    "welcome_email_v1",
+    "ugc_thank_you_v1",
+    "receipt_confirmation_v1",
+    "ai_session_kickoff_v1",
+    "expiration_warning_v1",
+    "lifetime_storage_offer_v1"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "hi",
+    "zh"
+  ]
+}

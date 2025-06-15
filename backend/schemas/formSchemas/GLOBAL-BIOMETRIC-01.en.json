@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-BIOMETRIC-01",
+  "title": "Biometric Enrollment Template",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name of applicant",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_date",
+      "label": "Date of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "document_type",
+      "label": "Type of ID presented (passport, driver’s license)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "appointment_location",
+      "label": "Biometric appointment location",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

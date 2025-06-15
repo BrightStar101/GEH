@@ -1,0 +1,30 @@
+{
+  "formId": "PL-KARTA-01",
+  "title": "Poland Karta Pobytu (Residence Card) Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residence_reason",
+      "label": "Reason for applying (e.g., work, family)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Date of entry into Poland",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "polish_address",
+      "label": "Current address in Poland",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "US": {
+    "languages": ["en", "es"],
+    "trustLabel": "Verified U.S. multilingual compliance"
+  },
+  "IN": {
+    "languages": ["en", "hi"],
+    "trustLabel": "India multilingual support enabled"
+  },
+  "CN": {
+    "languages": ["zh"],
+    "trustLabel": "Simplified Chinese trust layer active"
+  },
+  "MX": {
+    "languages": ["es"],
+    "trustLabel": "Spanish-first experience supported"
+  },
+  "PH": {
+    "languages": ["tl"],
+    "trustLabel": "Tagalog fallback enabled"
+  },
+  "FR": {
+    "languages": ["fr"],
+    "trustLabel": "French fallback active (English core)"
+  },
+  "BR": {
+    "languages": ["pt"],
+    "trustLabel": "Portuguese fallback with UI localization"
+  },
+  "UK": {
+    "languages": ["en", "uk"],
+    "trustLabel": "English + Ukrainian dual-mode fallback"
+  },
+  "EG": {
+    "languages": ["ar"],
+    "trustLabel": "Arabic fallback in place"
+  },
+  "JP": {
+    "languages": ["ja"],
+    "trustLabel": "Japanese fallback routed via Simplified Chinese"
+  },
+  "DE": {
+    "languages": ["de"],
+    "trustLabel": "German support coming soon"
+  },
+  "NG": {
+    "languages": ["en"],
+    "trustLabel": "West African region fallback via English"
+  },
+  "BD": {
+    "languages": ["bn"],
+    "trustLabel": "Bengali support routed via Hindi fallback"
+  },
+  "PK": {
+    "languages": ["ur"],
+    "trustLabel": "Urdu fallback via Hindi active"
+  },
+  "KR": {
+    "languages": ["ko"],
+    "trustLabel": "Korean fallback routed via Simplified Chinese"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "formId": "ES-PADRON-01",
+  "title": "Spain Municipal Registration (Padrón)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name of resident",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "spanish_address",
+      "label": "Current address in Spain",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "lease_or_owner",
+      "label": "Are you renting or own the property?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "document_uploaded",
+      "label": "Have you uploaded ID or proof of address?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

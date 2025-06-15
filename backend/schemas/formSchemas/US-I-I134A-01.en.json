@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-STU-INTENT-01",
+  "title": "Statement of Study Intent (Universal Template)",
+  "questions": [
+    {
+      "name": "student_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "country_of_study",
+      "label": "Country you plan to study in",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "intended_program",
+      "label": "Name of intended program or degree",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "study_goals",
+      "label": "Brief explanation of study goals",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

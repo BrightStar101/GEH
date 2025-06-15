@@ -1,0 +1,30 @@
+{
+  "formId": "AU-SUB600-01",
+  "title": "Australia Visitor Visa (Subclass 600)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "purpose_of_visit",
+      "label": "Purpose of visit to Australia",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "duration_days",
+      "label": "Length of stay (days)",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

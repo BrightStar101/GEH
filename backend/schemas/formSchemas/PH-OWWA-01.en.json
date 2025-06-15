@@ -1,0 +1,30 @@
+{
+  "formId": "PH-OWWA-01",
+  "title": "OWWA Membership Registration",
+  "questions": [
+    {
+      "name": "ofw_full_name",
+      "label": "Full name of overseas Filipino worker",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "employer_country",
+      "label": "Country of employment",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "contract_validity",
+      "label": "Validity period of contract",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "agency_name",
+      "label": "Recruitment agency name (if any)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

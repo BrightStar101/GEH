@@ -1,0 +1,48 @@
+{
+  "formId": "I-130",
+  "title": "Petition for Alien Relative",
+  "questions": [
+    {
+      "name": "petitioner_full_name",
+      "label": "Full name of the petitioner",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "petitioner_dob",
+      "label": "Petitioner's date of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "beneficiary_full_name",
+      "label": "Full name of the relative (beneficiary)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship",
+      "label": "Relationship to the petitioner",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "beneficiary_country",
+      "label": "Country of residence of beneficiary",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "beneficiary_marital_status",
+      "label": "Is the beneficiary currently married?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "beneficiary_children_count",
+      "label": "How many children does the beneficiary have?",
+      "type": "number",
+      "required": false
+    }
+  ]
+}

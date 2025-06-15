@@ -1,0 +1,24 @@
+{
+  "formId": "CN-REUNION-01",
+  "title": "China Family Reunion Visa Application",
+  "questions": [
+    {
+      "name": "inviting_relative_name",
+      "label": "Full name of inviting family member in China",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship_to_relative",
+      "label": "Relationship to the Chinese citizen",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "length_of_stay",
+      "label": "Intended length of stay (months)",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

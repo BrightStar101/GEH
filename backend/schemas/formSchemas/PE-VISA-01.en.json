@@ -1,0 +1,30 @@
+{
+  "formId": "PE-VISA-01",
+  "title": "Peru Tourist Visa Application",
+  "questions": [
+    {
+      "name": "name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Planned date of entry",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "duration_days",
+      "label": "Length of stay (days)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "prior_travel_to_peru",
+      "label": "Have you traveled to Peru before?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

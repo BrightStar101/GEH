@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-WORK-01",
+  "title": "Skilled Worker Visa (Multi-country Template)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "employer_country",
+      "label": "Country where job is located",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "job_title",
+      "label": "Job title",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "job_offer_letter_uploaded",
+      "label": "Have you uploaded a job offer letter?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

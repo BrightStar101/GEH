@@ -1,0 +1,30 @@
+{
+  "formId": "AE-RESIDENCY-01",
+  "title": "UAE Emirates ID and Residency Permit Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "visa_sponsor",
+      "label": "Sponsor company or family member",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_date",
+      "label": "Date of entry into UAE",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

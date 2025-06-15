@@ -1,0 +1,30 @@
+{
+  "formId": "LB-REU-FAMILY-01",
+  "title": "Lebanon Family Reunification Request",
+  "questions": [
+    {
+      "name": "requester_name",
+      "label": "Name of person making the request",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "family_member_name",
+      "label": "Name of family member in Lebanon",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship",
+      "label": "Relationship to family member",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "urgency_description",
+      "label": "Brief explanation of urgency",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

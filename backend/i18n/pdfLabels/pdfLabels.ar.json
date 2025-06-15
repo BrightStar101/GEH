@@ -1,0 +1,18 @@
+{
+  "__title": "ملخص استمارة الهجرة",
+  "fullName": "الاسم الكامل",
+  "dateOfBirth": "تاريخ الميلاد",
+  "countryOfOrigin": "بلد الأصل",
+  "passportNumber": "رقم جواز السفر",
+  "email": "البريد الإلكتروني",
+  "phoneNumber": "رقم الهاتف",
+  "address": "العنوان",
+  "visaType": "نوع التأشيرة",
+  "intendedArrivalDate": "تاريخ الوصول المتوقع",
+  "formPurpose": "غرض الطلب",
+  "dependents": "عدد المعالين",
+  "languagePreference": "اللغة المفضلة",
+  "employmentStatus": "الحالة الوظيفية",
+  "educationLevel": "المستوى التعليمي",
+  "notes": "ملاحظات إضافية"
+}

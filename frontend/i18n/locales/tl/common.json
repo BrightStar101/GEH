@@ -1,0 +1,168 @@
+{
+  "dashboard": {
+    "title": "Iyong PDF Dashboard",
+    "subtitle": "Plano ng Pag-access:",
+    "download": "I-download ang PDF",
+    "noFiles": "Walang magagamit na mga file.",
+    "defaultLabel": "Walang pamagat na pagsusumite",
+    "loading": "Ikinakarga ang iyong mga file...",
+    "loadError": "Hindi makarga ang mga file. Pakisubukang i-refresh.",
+    "flagged": "Ang file na ito ay minarkahan para sa pagsusuri.",
+    "expired": "Nag-expire na ang file na ito.",
+    "auditPending": "Nakahain para sa pagsusuri"
+  },
+  "checkout": {
+    "title": "Pumili ng Iyong Plano",
+    "subtitle": "Pumili ng plano at magbayad gamit ang Stripe o PayPal.",
+    "processing": "Pinoproseso...",
+    "redirecting": "Nire-redirect...",
+    "buttonStripe": "Magbayad sa Stripe",
+    "buttonPayPal": "Magbayad sa PayPal",
+    "selected": "Pinili mo ang:",
+    "accessDuration": "Tagal ng Pag-access",
+    "tokenCap": "Token Limit",
+    "supportLimit": "Suporta / Tanong",
+    "errorFallback": "Hindi ma-kumpleto ang pagbabayad.",
+    "errorStripe": "Nabigo ang Stripe checkout.",
+    "errorPayPal": "Hindi masimulan ang PayPal.",
+    "confidence": "Kumpiyansa",
+    "retry": "Subukang muli",
+    "limitWarning": "Ang planong ito ay may limitadong tanong lamang.",
+    "expiredAccess": "Nag-expire na ang iyong access. Mag-upgrade upang magpatuloy."
+  },
+  "mira": {
+    "hero": "Ang iyong AI Immigration Expert",
+    "note": "Tinutulungan ka ni Mira sa pagsagot ng form — hindi niya mapapabilis ang proseso ng gobyerno.",
+    "legalReminder": "Ang resulta mo ay nakadepende pa rin sa opisyal na iskedyul ng ahensiya.",
+    "start": "Magtanong kay Mira",
+    "disclaimer": "Hindi abogado si Mira. Hindi siya nagbibigay ng legal na payo. Ginagamit ang platform na ito para sa dokumento at AI support lamang."
+  },
+  "prompt": {
+    "confidenceLabel": "Kumpiyansa",
+    "helpful": "Nakakatulong",
+    "notHelpful": "Hindi nakakatulong",
+    "thanks": "Salamat sa iyong puna!",
+    "feedbackFail": "Nabigong i-save ang feedback.",
+    "retry": "Magbigay ng panibagong tanong"
+  },
+  "pdf": {
+    "expiresIn": "Mag-e-expire sa loob ng",
+    "days": "araw",
+    "expired": "Nag-expire na ang file na ito",
+    "downloadLimitReached": "Naabot mo na ang download limit ng iyong plano.",
+    "upgradeToAccess": "Mag-upgrade ng plano upang makapag-download ng higit pa.",
+    "expiresSoon": "Malapit nang mag-expire",
+    "deleted": "Hindi na available ang file na ito."
+  },
+  "error": {
+    "notFound": "Hindi natagpuan ang pahina.",
+    "generic": "Nagkaroon ng error.",
+    "suggestion": "Subukang muli o bumalik sa homepage.",
+    "backHome": "Bumalik sa Home",
+    "authExpired": "Nag-expire na ang iyong session.",
+    "invalidToken": "Invalid o expired na token.",
+    "serverDown": "May problema sa aming system.",
+    "retryLater": "Pakisubukang muli mamaya."
+  },
+  "success": {
+    "title": "Aktibo na ang Iyong Plano",
+    "description": "Maaari mo nang gamitin ang lahat ng AI features at i-download ang mga form.",
+    "nextSteps": "Mga Susunod na Hakbang",
+    "dashboardCTA": "Pumunta sa Dashboard"
+  },
+  "landing": {
+    "heroHeadline": "Ginawang simple ang Immigration.",
+    "heroSubhead": "Mabilis. Abot-kaya. Maaasahan.",
+    "getStarted": "Simulan",
+    "tryMira": "Subukan si Mira",
+    "value1": "5x Mas Mabilis",
+    "value2": "Higit $700 matitipid bawat kaso",
+    "value3": "99.2% Katumpakan",
+    "value4": "AI Support sa maraming wika"
+  },
+  "about": {
+    "missionTitle": "Aming Misyon",
+    "mission": "Naniniwala kami na ang immigration ay karapatan, hindi pribilehiyo. Layunin naming bigyan ng kapangyarihan ang bawat pamilya — gamit ang linaw, dignidad, at maaasahang suporta.",
+    "whyBuilt": "Bakit Namin Ginawa si Mira",
+    "vision": "Aming Bisyon",
+    "values": {
+      "clarity": "Kaluwagan at empowerment",
+      "accuracy": "AI na sinanay para sa napatunayang katumpakan",
+      "compassion": "May malasakit na suporta para sa bawat paglalakbay"
+    }
+  },
+  "trust": {
+    "title": "Tiwala at Transparency",
+    "scoreTitle": "Score ng Katumpakan",
+    "uptime": "Uptime ng Platform",
+    "secureData": "Ang iyong data ay naka-encrypt at ligtas.",
+    "auditReady": "Sumusunod ang platform sa mga pandaigdigang batas sa privacy.",
+    "compliance": "Sumusunod sa GDPR, CCPA, at global na privacy standards.",
+    "encrypted": "Lahat ng file ay naka-encrypt.",
+    "auditTrail": "Lahat ng sensitibong aksyon ay naka-log para sa audit."
+  },
+  "support": {
+    "title": "Kailangan ng tulong?",
+    "emailIntro": "Para sa mga tanong tungkol sa form, bayad, o teknikal na isyu, makipag-ugnayan sa amin:",
+    "responseTime": "Kadalasan sumasagot kami sa loob ng 24–48 oras.",
+    "chatUnavailable": "Walang available na chat ngayon. Subukang muli mamaya.",
+    "formIssue": "May problema sa form na ito?",
+    "emailUs": "Mag-email sa support@globalentryhub.com",
+    "prompts": {
+      "question1": "Paano ako magsisimula ng form?",
+      "answer1": "I-click lang ang kahit anong form sa iyong dashboard. Igiya ka ni Mira.",
+      "question2": "Paano ko maa-upgrade ang aking plano?",
+      "answer2": "Pumunta sa pricing page at pumili ng bagong plano.",
+      "question3": "Pwede ba akong kumausap ng tao?",
+      "answer3": "Oo — mag-email sa support@globalentryhub.com para sa agarang tulong."
+    }
+  },
+  "terms": {
+    "title": "Mga Tuntunin ng Serbisyo",
+    "disclaimer": "Hindi nagbibigay ng legal advice ang platform na ito. Ginagamit ito para sa AI-assisted document support lang.",
+    "refundPolicy": "Pwede ang refund sa loob ng 72 oras kung walang form na naisumite.",
+    "license": "Ang paggamit mo ng platform ay sakop ng GEH license agreement."
+  },
+  "privacy": {
+    "title": "Patakaran sa Privacy",
+    "summary": "Pinahahalagahan namin ang iyong privacy. Ipinapaliwanag ng policy na ito kung paano namin kinokolekta at ginagamit ang data mo.",
+    "gdpr": "Pwede kang humiling na tanggalin o i-export ang data mo kahit kailan.",
+    "contact": "Para sa privacy concerns, mag-email sa privacy@globalentryhub.com"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "support": "Suporta",
+    "purchase": "Bumili",
+    "logout": "Mag-logout",
+    "tryMira": "Subukan si Mira"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Mga Tuntunin",
+    "trust": "Tiwala at Seguridad",
+    "support": "Makipag-ugnayan sa Suporta",
+    "legal": "Lahat ng content © Global Entry Hub. Lahat ng karapatan ay nakalaan.",
+    "security": "Seguridad",
+    "dataExport": "I-export ang Data Ko",
+    "languageSelector": "Wika",
+    "cookies": "Mga Cookie Setting"
+  },
+  "redirect": {
+    "title": "Ire-redirect ka...",
+    "description": "Kung hindi automatic, i-click ang button sa ibaba.",
+    "clickHere": "I-click dito"
+  },
+  "enhancements": {
+    "title": "Mga Darating na Pagpapahusay",
+    "subtitle": "Ano ang susunod sa Global Entry Hub",
+    "kairoLaunch": "Kairo (Assistant sa Pananalapi) ay paparating na",
+    "languageExpansions": "Mas maraming wika ang idadagdag buwan-buwan",
+    "merchLine": "Coming soon: Mira merchandise!"
+  },
+  "plan": {
+    "free": "Unang Form Libre",
+    "starter": "Starter Plan",
+    "official": "Opisyal na Package",
+    "family": "Pamilyang Plan"
+  }
+}

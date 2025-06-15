@@ -1,0 +1,12 @@
+{
+  "applicant_name": "Buong pangalan",
+  "passport_number": "Numero ng pasaporte",
+  "birth_date": "Petsa ng kapanganakan",
+  "nationality": "Nasyonalidad",
+  "country_of_birth": "Bansa ng kapanganakan",
+  "relationship": "Ugnayan",
+  "purpose_of_visit": "Layunin ng pagbisita",
+  "entry_date": "Petsa ng pagpasok",
+  "duration_days": "Tagal ng pananatili (araw)",
+  "email": "Email address"
+}

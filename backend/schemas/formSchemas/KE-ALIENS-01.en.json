@@ -1,0 +1,30 @@
+{
+  "formId": "KE-ALIENS-01",
+  "title": "Kenya Alien Registration Certificate",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name (as in passport)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "residence_type",
+      "label": "Type of residence permit held",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "kenya_entry_date",
+      "label": "Date of entry into Kenya",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

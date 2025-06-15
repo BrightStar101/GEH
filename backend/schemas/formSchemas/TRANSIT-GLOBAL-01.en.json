@@ -1,0 +1,30 @@
+{
+  "formId": "TRANSIT-GLOBAL-01",
+  "title": "Airport Transit Visa Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name as in passport",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "transit_airport",
+      "label": "Name of transit airport",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "connecting_flight_number",
+      "label": "Flight number of connecting leg",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "visa_for_final_destination",
+      "label": "Do you hold a visa for your final destination?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "formId": "I-485",
+  "title": "Application to Register Permanent Residence or Adjust Status",
+  "questions": [
+    {
+      "name": "applicant_full_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "alien_number",
+      "label": "Alien registration number (if any)",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "entry_date",
+      "label": "Date of last entry into the U.S.",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "entry_status",
+      "label": "Status at time of entry (e.g., F-1, B-2)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "immigrant_category",
+      "label": "Immigrant category you're applying under",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

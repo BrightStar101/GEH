@@ -1,0 +1,30 @@
+{
+  "formId": "NGO-VISA-REC-01",
+  "title": "Visa Recommendation Request (NGO Use)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Name of individual needing visa support",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "ngo_rep_name",
+      "label": "Your name (NGO representative)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "country_of_intent",
+      "label": "Country the person intends to travel to",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "case_reference",
+      "label": "NGO case reference number (if any)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

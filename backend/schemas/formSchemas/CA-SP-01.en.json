@@ -1,0 +1,30 @@
+{
+  "formId": "CA-SP-01",
+  "title": "Canada Study Permit Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "acceptance_letter_uploaded",
+      "label": "Do you have a valid letter of acceptance?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "financial_proof_uploaded",
+      "label": "Proof of funds uploaded?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "institution_country",
+      "label": "Country where your school is located",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

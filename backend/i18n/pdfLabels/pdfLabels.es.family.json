@@ -1,0 +1,18 @@
+{
+  "__title": "Resumen del Formulario de Inmigración - Familiar",
+  "fullName": "Nombre Completo del Familiar",
+  "dateOfBirth": "Fecha de Nacimiento del Familiar",
+  "countryOfOrigin": "País de Origen del Familiar",
+  "passportNumber": "Número de Pasaporte del Familiar",
+  "email": "Correo Electrónico",
+  "phoneNumber": "Número de Teléfono",
+  "address": "Dirección del Domicilio",
+  "visaType": "Tipo de Visa Solicitada",
+  "intendedArrivalDate": "Fecha Prevista de Llegada",
+  "formPurpose": "Motivo de la Solicitud Familiar",
+  "dependents": "Número de Dependientes",
+  "languagePreference": "Idioma Preferido",
+  "employmentStatus": "Situación Laboral del Patrocinador",
+  "educationLevel": "Nivel Educativo",
+  "notes": "Notas Adicionales Sobre el Familiar"
+}

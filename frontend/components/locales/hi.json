@@ -1,0 +1,12 @@
+{
+  "applicant_name": "पूरा नाम",
+  "passport_number": "पासपोर्ट नंबर",
+  "birth_date": "जन्म तिथि",
+  "nationality": "राष्ट्रीयता",
+  "country_of_birth": "जन्म देश",
+  "relationship": "रिश्ता",
+  "purpose_of_visit": "यात्रा का उद्देश्य",
+  "entry_date": "प्रवेश की तिथि",
+  "duration_days": "प्रवास की अवधि (दिनों में)",
+  "email": "ईमेल पता"
+}

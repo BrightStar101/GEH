@@ -1,0 +1,30 @@
+{
+  "formId": "UG-REF-ASYLUM-01",
+  "title": "Uganda Refugee Asylum Intake Form",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name of asylum seeker",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "origin_country",
+      "label": "Country of origin",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "reason_for_fleeing",
+      "label": "Brief explanation of why you are seeking asylum",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "dependents_count",
+      "label": "Number of accompanying dependents",
+      "type": "number",
+      "required": false
+    }
+  ]
+}

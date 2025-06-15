@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-CHILD-01",
+  "title": "Child of Resident Visa Application Template",
+  "questions": [
+    {
+      "name": "child_full_name",
+      "label": "Child's full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "parent_name",
+      "label": "Full name of parent (resident)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship_confirmed",
+      "label": "Do you have a birth certificate or custody document?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "country_of_residence",
+      "label": "Country of current residence",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

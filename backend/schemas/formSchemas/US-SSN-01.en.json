@@ -1,0 +1,30 @@
+{
+  "formId": "US-SSN-01",
+  "title": "Social Security Number Application (SS-5)",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_place",
+      "label": "City and state or foreign country of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "citizenship_status",
+      "label": "Are you a U.S. citizen, legal resident, or visa holder?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "mother_maiden_name",
+      "label": "Mother's maiden name",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

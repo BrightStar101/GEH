@@ -1,0 +1,30 @@
+{
+  "formId": "UNHCR-AS-01",
+  "title": "UNHCR Asylum Seeker Registration Form",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "nationality",
+      "label": "Country of nationality",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "reasons_for_fleeing",
+      "label": "Briefly describe the reasons for leaving your home country",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "arrival_country",
+      "label": "Country of arrival",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

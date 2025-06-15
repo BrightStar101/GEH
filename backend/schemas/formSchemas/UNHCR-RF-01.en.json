@@ -1,0 +1,30 @@
+{
+  "formId": "UNHCR-RF-01",
+  "title": "UNHCR Refugee Family Reunification Form",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Your full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "refugee_status_number",
+      "label": "Your UNHCR refugee number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relative_name",
+      "label": "Name of family member to reunify with",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "relationship",
+      "label": "Relationship to applicant",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "formId": "SA-IQAMA-01",
+  "title": "Saudi Arabia Iqama Residency Permit Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "job_position",
+      "label": "Job title/position",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "employer_id",
+      "label": "Employer license or registration number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "contract_duration",
+      "label": "Contract duration in months",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

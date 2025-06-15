@@ -1,0 +1,30 @@
+{
+  "formId": "IN-STU-LOA-01",
+  "title": "India Letter of Admission Submission Form",
+  "questions": [
+    {
+      "name": "student_name",
+      "label": "Full name of student",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "institution_name",
+      "label": "Admitting institution name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "program_name",
+      "label": "Program of study",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "admission_date",
+      "label": "Date of admission",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

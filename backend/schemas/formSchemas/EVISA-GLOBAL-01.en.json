@@ -1,0 +1,30 @@
+{
+  "formId": "EVISA-GLOBAL-01",
+  "title": "Electronic Visa (eVisa) Application Template",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "country_of_nationality",
+      "label": "Nationality",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "travel_dates",
+      "label": "Planned dates of travel",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "purpose_of_travel",
+      "label": "Purpose of travel",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

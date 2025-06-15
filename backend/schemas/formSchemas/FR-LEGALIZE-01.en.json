@@ -1,0 +1,30 @@
+{
+  "formId": "FR-LEGALIZE-01",
+  "title": "France Legalization of Foreign Document",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "document_type",
+      "label": "Type of document to be legalized",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "issuing_country",
+      "label": "Country that issued the document",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "french_translation_uploaded",
+      "label": "Have you uploaded a French translation?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

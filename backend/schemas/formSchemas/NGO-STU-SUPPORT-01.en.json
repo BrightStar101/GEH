@@ -1,0 +1,24 @@
+{
+  "formId": "NGO-STU-SUPPORT-01",
+  "title": "NGO Student Sponsorship Intake",
+  "questions": [
+    {
+      "name": "student_name",
+      "label": "Student's full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "program_applied",
+      "label": "Name of academic program or course",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "sponsoring_ngo",
+      "label": "Name of sponsoring NGO (if known)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

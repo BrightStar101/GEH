@@ -1,0 +1,30 @@
+{
+  "formId": "LK-VISA-01",
+  "title": "Sri Lanka Electronic Travel Authorization (ETA)",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "email",
+      "label": "Email address",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_expiry",
+      "label": "Passport expiration date",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "purpose_of_visit",
+      "label": "Purpose of visit (tourism, business)",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

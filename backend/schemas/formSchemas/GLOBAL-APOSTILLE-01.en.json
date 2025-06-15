@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-APOSTILLE-01",
+  "title": "Apostille Request (Universal)",
+  "questions": [
+    {
+      "name": "document_holder_name",
+      "label": "Name of person requesting apostille",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "document_type",
+      "label": "Type of document to apostille (e.g., birth cert)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "use_country",
+      "label": "Country where document will be used",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "has_translation",
+      "label": "Have you translated the document if required?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

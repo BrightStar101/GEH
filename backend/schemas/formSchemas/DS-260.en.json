@@ -1,0 +1,36 @@
+{
+  "formId": "DS-260",
+  "title": "Immigrant Visa Electronic Application",
+  "questions": [
+    {
+      "name": "case_number",
+      "label": "Case number assigned by NVC",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "full_name",
+      "label": "Full name of the applicant",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "country_of_birth",
+      "label": "Country of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "current_country",
+      "label": "Current country of residence",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "sponsor_name",
+      "label": "Name of financial sponsor",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

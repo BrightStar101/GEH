@@ -1,0 +1,30 @@
+{
+  "formId": "GLOBAL-DEPLOY-CASE-01",
+  "title": "Refugee Case Deployment Form",
+  "questions": [
+    {
+      "name": "beneficiary_name",
+      "label": "Name of individual being deployed or relocated",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "departure_country",
+      "label": "Country of departure",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "destination_country",
+      "label": "Destination country",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "escort_required",
+      "label": "Is an escort or medical assistant required?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

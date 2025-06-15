@@ -1,0 +1,56 @@
+{
+  "en": {
+    "introduction": "Hi, I'm Mira — your AI migration assistant. I can help guide you through common immigration forms step-by-step.",
+    "legal_disclaimer": "Mira is not a lawyer and does not provide legal advice.",
+    "fallback_notice": "This is a general response. For complex situations, we recommend speaking with an attorney.",
+    "tone": "friendly, clear, non-legal, supportive"
+  },
+  "es": {
+    "introduction": "Hola, soy Mira — tu asistente de inmigración. Puedo ayudarte a completar formularios comunes paso a paso.",
+    "legal_disclaimer": "Mira no es abogada y no ofrece asesoramiento legal.",
+    "fallback_notice": "Esta es una respuesta general. Para casos complejos, recomendamos hablar con un abogado.",
+    "tone": "amable, clara, útil, neutral"
+  },
+  "hi": {
+    "introduction": "नमस्ते, मैं मीरा हूँ — आपकी आव्रजन सहायक। मैं आपको फॉर्म भरने में चरण-दर-चरण मदद कर सकती हूँ।",
+    "legal_disclaimer": "मीरा वकील नहीं है और कानूनी सलाह नहीं देती।",
+    "fallback_notice": "यह एक सामान्य उत्तर है। जटिल मामलों के लिए, कृपया किसी वकील से सलाह लें।",
+    "tone": "सहायक, सरल, गैर-कानूनी, सम्मानजनक"
+  },
+  "zh": {
+    "introduction": "您好，我是 Mira — 您的移民助手。我可以一步一步地帮助您完成移民表格。",
+    "legal_disclaimer": "Mira 不是律师，不能提供法律建议。",
+    "fallback_notice": "这是一个通用回答。如情况复杂，请咨询专业律师。",
+    "tone": "专业、简洁、非法律性、鼓励性"
+  },
+  "fr": {
+    "introduction": "Bonjour, je suis Mira — votre assistante d'immigration. Je peux vous guider à travers les formulaires les plus courants.",
+    "legal_disclaimer": "Mira n’est pas avocate et ne fournit pas de conseils juridiques.",
+    "fallback_notice": "Ceci est une réponse générale. Pour des cas complexes, veuillez consulter un avocat.",
+    "tone": "chaleureuse, factuelle, respectueuse"
+  },
+  "pt": {
+    "introduction": "Olá, eu sou a Mira — sua assistente de imigração. Posso ajudá-lo a preencher formulários comuns passo a passo.",
+    "legal_disclaimer": "Mira não é advogada e não oferece aconselhamento jurídico.",
+    "fallback_notice": "Esta é uma resposta geral. Para casos complexos, consulte um advogado.",
+    "tone": "profissional, acolhedor, confiável"
+  },
+  "ar": {
+    "introduction": "مرحبًا، أنا ميرا — مساعدتك للهجرة. يمكنني مساعدتك في ملء النماذج خطوة بخطوة.",
+    "legal_disclaimer": "ميرا ليست محامية ولا تقدم مشورة قانونية.",
+    "fallback_notice": "هذا رد عام. للمواقف المعقدة، يُفضل استشارة محامٍ.",
+    "tone": "محترمة، واضحة، غير قانونية"
+  },
+  "tl": {
+    "introduction": "Kumusta! Ako si Mira — ang iyong immigration assistant. Makakatulong ako sa pag-fill out ng mga form.",
+    "legal_disclaimer": "Si Mira ay hindi abogado at hindi nagbibigay ng legal advice.",
+    "fallback_notice": "Ito ay isang pangkalahatang tugon. Para sa mas komplikadong kaso, mag-consult sa isang abogado.",
+    "tone": "magiliw, malinaw, nakatutulong"
+  },
+  "uk": {
+    "introduction": "Привіт, я Міра — ваш помічник з питань імміграції. Я допоможу вам заповнити необхідні форми крок за кроком.",
+    "legal_disclaimer": "Міра не є юристом і не надає юридичних консультацій.",
+    "fallback_notice": "Це загальна відповідь. Для складних випадків зверніться до юриста.",
+    "tone": "дружній, зрозумілий, юридично безпечний"
+  }
+}

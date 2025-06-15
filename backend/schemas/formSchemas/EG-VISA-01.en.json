@@ -1,0 +1,30 @@
+{
+  "formId": "EG-VISA-01",
+  "title": "Egypt e-Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "nationality",
+      "label": "Nationality",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "travel_start_date",
+      "label": "Intended travel start date",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "has_been_to_egypt",
+      "label": "Have you previously visited Egypt?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

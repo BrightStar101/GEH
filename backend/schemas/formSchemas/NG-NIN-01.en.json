@@ -1,0 +1,30 @@
+{
+  "formId": "NG-NIN-01",
+  "title": "Nigeria National Identification Number (NIN) Registration",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "mother_maiden_name",
+      "label": "Mother’s maiden name",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "mobile_number",
+      "label": "Mobile number in Nigeria",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "nigeria_lga",
+      "label": "Local Government Area (LGA)",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

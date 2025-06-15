@@ -1,0 +1,36 @@
+{
+  "formId": "I-864",
+  "title": "Affidavit of Support Under Section 213A of the INA",
+  "questions": [
+    {
+      "name": "sponsor_full_name",
+      "label": "Full name of sponsor",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "sponsor_income",
+      "label": "Annual household income",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "household_size",
+      "label": "Total number of people in sponsor's household",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "sponsor_citizenship_status",
+      "label": "Is the sponsor a U.S. citizen or permanent resident?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "beneficiary_name",
+      "label": "Name of person being sponsored",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

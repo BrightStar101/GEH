@@ -1,0 +1,18 @@
+{
+  "__title": "Resumo do Formulário de Imigração",
+  "fullName": "Nome Completo",
+  "dateOfBirth": "Data de Nascimento",
+  "countryOfOrigin": "País de Origem",
+  "passportNumber": "Número do Passaporte",
+  "email": "Email",
+  "phoneNumber": "Número de Telefone",
+  "address": "Endereço",
+  "visaType": "Tipo de Visto",
+  "intendedArrivalDate": "Data Prevista de Chegada",
+  "formPurpose": "Motivo da Solicitação",
+  "dependents": "Número de Dependentes",
+  "languagePreference": "Idioma Preferido",
+  "employmentStatus": "Situação de Emprego",
+  "educationLevel": "Nível de Escolaridade",
+  "notes": "Observações Adicionais"
+}

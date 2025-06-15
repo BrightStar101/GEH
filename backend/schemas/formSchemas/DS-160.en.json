@@ -1,0 +1,42 @@
+{
+  "formId": "DS-160",
+  "title": "Online Nonimmigrant Visa Application",
+  "questions": [
+    {
+      "name": "applicant_full_name",
+      "label": "Full name as in passport",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "purpose_of_trip",
+      "label": "Purpose of trip to the U.S.",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "intended_arrival_date",
+      "label": "Intended date of arrival",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "previous_us_visits",
+      "label": "Have you visited the U.S. before?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "us_contact_name",
+      "label": "Name of contact in the U.S.",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

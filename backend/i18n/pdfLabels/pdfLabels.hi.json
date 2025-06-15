@@ -1,0 +1,18 @@
+{
+  "__title": "प्रवासन फॉर्म सारांश",
+  "fullName": "पूरा नाम",
+  "dateOfBirth": "जन्म तिथि",
+  "countryOfOrigin": "मूल देश",
+  "passportNumber": "पासपोर्ट नंबर",
+  "email": "ईमेल",
+  "phoneNumber": "फ़ोन नंबर",
+  "address": "पता",
+  "visaType": "वीज़ा का प्रकार",
+  "intendedArrivalDate": "आगमन की अपेक्षित तिथि",
+  "formPurpose": "आवेदन का उद्देश्य",
+  "dependents": "निर्भर व्यक्तियों की संख्या",
+  "languagePreference": "पसंदीदा भाषा",
+  "employmentStatus": "रोज़गार की स्थिति",
+  "educationLevel": "शैक्षणिक स्तर",
+  "notes": "अतिरिक्त टिप्पणियाँ"
+}

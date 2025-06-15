@@ -1,0 +1,24 @@
+{
+  "formId": "AZ-MIGRANT-VISA-01",
+  "title": "Azerbaijan Migrant Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "visa_type",
+      "label": "Visa type (work, family, student)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "host_address",
+      "label": "Address of host in Azerbaijan (if any)",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

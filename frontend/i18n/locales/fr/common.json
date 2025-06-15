@@ -1,0 +1,168 @@
+{
+  "dashboard": {
+    "title": "Votre tableau de bord PDF",
+    "subtitle": "Plan d'accès :",
+    "download": "Télécharger le PDF",
+    "noFiles": "Aucun fichier disponible.",
+    "defaultLabel": "Soumission sans titre",
+    "loading": "Chargement de vos fichiers...",
+    "loadError": "Échec du chargement des fichiers. Veuillez actualiser la page.",
+    "flagged": "Ce fichier est signalé pour audit.",
+    "expired": "Ce fichier a expiré.",
+    "auditPending": "Audit en attente"
+  },
+  "checkout": {
+    "title": "Choisissez votre plan d'accès",
+    "subtitle": "Sélectionnez un plan et payez en toute sécurité via Stripe ou PayPal.",
+    "processing": "Traitement...",
+    "redirecting": "Redirection...",
+    "buttonStripe": "Payer avec Stripe",
+    "buttonPayPal": "Payer avec PayPal",
+    "selected": "Vous avez sélectionné :",
+    "accessDuration": "Durée d'accès",
+    "tokenCap": "Limite de jetons",
+    "supportLimit": "Demandes de support",
+    "errorFallback": "Impossible de finaliser le paiement.",
+    "errorStripe": "Échec du paiement Stripe.",
+    "errorPayPal": "Échec du démarrage de PayPal.",
+    "confidence": "Confiance",
+    "retry": "Réessayer",
+    "limitWarning": "Ce plan prend en charge un nombre limité de requêtes.",
+    "expiredAccess": "Votre accès a expiré. Veuillez mettre à niveau votre plan."
+  },
+  "mira": {
+    "hero": "Votre experte en immigration propulsée par l'IA",
+    "note": "Mira vous aide à remplir les formulaires — elle ne peut pas accélérer les délais gouvernementaux.",
+    "legalReminder": "Vos résultats dépendent toujours des délais de l'agence officielle.",
+    "start": "Poser une question à Mira",
+    "disclaimer": "Mira n'est pas avocate. Elle ne donne pas de conseils juridiques. Cette plateforme sert uniquement à la préparation de documents assistée par IA."
+  },
+  "prompt": {
+    "confidenceLabel": "Niveau de confiance",
+    "helpful": "Utile",
+    "notHelpful": "Pas utile",
+    "thanks": "Merci pour votre retour !",
+    "feedbackFail": "Échec de l'enregistrement du retour.",
+    "retry": "Poser une autre question"
+  },
+  "pdf": {
+    "expiresIn": "Expire dans",
+    "days": "jours",
+    "expired": "Ce fichier a expiré",
+    "downloadLimitReached": "Vous avez atteint la limite de téléchargement de votre plan.",
+    "upgradeToAccess": "Mettez à niveau votre plan pour débloquer plus de téléchargements.",
+    "expiresSoon": "Expire bientôt",
+    "deleted": "Ce fichier n'est plus disponible."
+  },
+  "error": {
+    "notFound": "Page introuvable.",
+    "generic": "Une erreur est survenue.",
+    "suggestion": "Veuillez réessayer ou revenir à l'accueil.",
+    "backHome": "Retour à l'accueil",
+    "authExpired": "Votre session a expiré.",
+    "invalidToken": "Jeton invalide ou expiré.",
+    "serverDown": "Nous rencontrons des problèmes techniques.",
+    "retryLater": "Veuillez réessayer dans quelques minutes."
+  },
+  "success": {
+    "title": "Votre plan est actif",
+    "description": "Vous pouvez désormais accéder à toutes les fonctionnalités IA et télécharger vos formulaires.",
+    "nextSteps": "Prochaines étapes",
+    "dashboardCTA": "Aller au tableau de bord"
+  },
+  "landing": {
+    "heroHeadline": "L'immigration rendue simple.",
+    "heroSubhead": "Rapide. Abordable. Fiable.",
+    "getStarted": "Commencer",
+    "tryMira": "Essayer Mira",
+    "value1": "5x plus rapide",
+    "value2": "700 $ économisés par dossier",
+    "value3": "99,2 % de précision",
+    "value4": "Assistance multilingue IA"
+  },
+  "about": {
+    "missionTitle": "Notre mission",
+    "mission": "Nous croyons que l'immigration est un droit, pas un luxe. Notre mission est de donner à chaque famille le pouvoir d'avancer — avec clarté, dignité et soutien fiable.",
+    "whyBuilt": "Pourquoi nous avons créé Mira",
+    "vision": "Notre vision",
+    "values": {
+      "clarity": "Clarté et autonomie",
+      "accuracy": "IA formée pour une précision vérifiée",
+      "compassion": "Soutien compatissant pour chaque parcours"
+    }
+  },
+  "trust": {
+    "title": "Confiance et transparence",
+    "scoreTitle": "Indice de précision",
+    "uptime": "Disponibilité de la plateforme",
+    "secureData": "Vos données sont cryptées et stockées en toute sécurité.",
+    "auditReady": "Cette plateforme est conforme aux normes mondiales de confidentialité.",
+    "compliance": "Conforme aux lois GDPR, CCPA et internationales sur la vie privée.",
+    "encrypted": "Tous les documents sont stockés de manière chiffrée.",
+    "auditTrail": "Toutes les actions sensibles sont auditées."
+  },
+  "support": {
+    "title": "Besoin d'aide ?",
+    "emailIntro": "Pour des questions sur les formulaires, paiements ou problèmes techniques, contactez-nous :",
+    "responseTime": "Notre équipe répond généralement sous 24 à 48 heures.",
+    "chatUnavailable": "Le chat est actuellement hors ligne. Veuillez réessayer plus tard.",
+    "formIssue": "Problème avec ce formulaire ?",
+    "emailUs": "Envoyez-nous un email à support@globalentryhub.com",
+    "prompts": {
+      "question1": "Comment démarrer un formulaire ?",
+      "answer1": "Cliquez sur un formulaire depuis votre tableau de bord. Mira vous guidera.",
+      "question2": "Comment mettre à niveau mon plan ?",
+      "answer2": "Allez à la page des tarifs et choisissez le plan souhaité.",
+      "question3": "Puis-je parler à quelqu'un ?",
+      "answer3": "Oui — contactez support@globalentryhub.com pour les cas urgents."
+    }
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "disclaimer": "Cette plateforme ne fournit pas de conseils juridiques. Elle aide à la préparation de documents via l'IA.",
+    "refundPolicy": "Les remboursements sont possibles sous 72h si aucun formulaire n'a été soumis.",
+    "license": "L'utilisation de cette plateforme est soumise à l'accord de licence GEH."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "summary": "Nous respectons votre vie privée. Cette politique explique comment nous collectons et protégeons vos données.",
+    "gdpr": "Vous pouvez demander la suppression ou l'exportation de vos données à tout moment.",
+    "contact": "Contactez privacy@globalentryhub.com pour toute question."
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "support": "Support",
+    "purchase": "Acheter",
+    "logout": "Se déconnecter",
+    "tryMira": "Essayer Mira"
+  },
+  "footer": {
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "trust": "Confiance et sécurité",
+    "support": "Contacter le support",
+    "legal": "Contenu © Global Entry Hub. Tous droits réservés.",
+    "security": "Sécurité",
+    "dataExport": "Exporter mes données",
+    "languageSelector": "Langue",
+    "cookies": "Préférences cookies"
+  },
+  "redirect": {
+    "title": "Redirection...",
+    "description": "Si la redirection ne se fait pas automatiquement, cliquez ci-dessous.",
+    "clickHere": "Cliquez ici"
+  },
+  "enhancements": {
+    "title": "Améliorations à venir",
+    "subtitle": "Ce qui arrive bientôt sur Global Entry Hub",
+    "kairoLaunch": "Lancement de Kairo (assistant financier) imminent",
+    "languageExpansions": "Plus de langues ajoutées chaque mois",
+    "merchLine": "Boutique Mira à venir !"
+  },
+  "plan": {
+    "free": "Premier formulaire gratuit",
+    "starter": "Kit de démarrage",
+    "official": "Pack officiel",
+    "family": "Plan familial"
+  }
+}

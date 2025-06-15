@@ -1,0 +1,12 @@
+{
+  "enableMira": true,
+  "enableKairo": false,
+  "enableLumo": false,
+  "enableCLA": true,
+  "enableEmailEngine": true,
+  "enablePromptLibrary": true,
+  "enableNGOOutreach": false,
+  "enableAdminOverrides": true,
+  "enableUserFeedbackLoop": true,
+  "enableRegionGating": false
+}

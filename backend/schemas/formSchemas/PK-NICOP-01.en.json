@@ -1,0 +1,30 @@
+{
+  "formId": "PK-NICOP-01",
+  "title": "Pakistan NICOP Application (Overseas ID)",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "father_or_spouse_name",
+      "label": "Father's or spouse's name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "pakistani_origin",
+      "label": "Are you of Pakistani origin?",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "country_of_residence",
+      "label": "Current country of residence",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

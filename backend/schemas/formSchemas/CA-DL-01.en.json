@@ -1,0 +1,30 @@
+{
+  "formId": "CA-DL-01",
+  "title": "Canada Digital Driver’s License Request",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full legal name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "province",
+      "label": "Province or territory of residence",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "license_number",
+      "label": "Current driver’s license number (if applicable)",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "photo_consent",
+      "label": "Do you consent to digital ID photo usage?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

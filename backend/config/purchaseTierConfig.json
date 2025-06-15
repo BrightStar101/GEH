@@ -1,0 +1,46 @@
+{
+  "free": {
+    "tierId": "free",
+    "label": "First Form Free",
+    "price": 0,
+    "durationHours": 0,
+    "maxForms": 1,
+    "maxPrompts": 0,
+    "includesPdf": false,
+    "includesAI": false,
+    "available": true
+  },
+  "starter": {
+    "tierId": "tier_5",
+    "label": "Starter Kit",
+    "price": 5,
+    "durationHours": 24,
+    "maxForms": 2,
+    "maxPrompts": 24,
+    "includesPdf": true,
+    "includesAI": true,
+    "available": true
+  },
+  "official": {
+    "tierId": "tier_25",
+    "label": "Official Pack",
+    "price": 25,
+    "durationHours": 72,
+    "maxForms": 20,
+    "maxPrompts": 60,
+    "includesPdf": true,
+    "includesAI": true,
+    "available": true
+  },
+  "family": {
+    "tierId": "tier_75",
+    "label": "Friends & Family Plan",
+    "price": 75,
+    "durationHours": 168,
+    "maxForms": 60,
+    "maxPrompts": 120,
+    "includesPdf": true,
+    "includesAI": true,
+    "available": true
+  }
+}

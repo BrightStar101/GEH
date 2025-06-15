@@ -1,0 +1,36 @@
+{
+  "formId": "IN-PAN-01",
+  "title": "Permanent Account Number (PAN) Application",
+  "questions": [
+    {
+      "name": "full_name",
+      "label": "Applicant's full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "date_of_birth",
+      "label": "Date of birth",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "father_name",
+      "label": "Father's full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "aadhaar_linked",
+      "label": "Is your Aadhaar linked?",
+      "type": "text",
+      "required": false
+    },
+    {
+      "name": "residential_status",
+      "label": "Residential status (Indian/Foreign/NRI)",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

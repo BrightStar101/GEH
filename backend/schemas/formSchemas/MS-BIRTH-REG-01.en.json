@@ -1,0 +1,24 @@
+{
+  "formId": "MX-BIRTH-REG-01",
+  "title": "Mexico Birth Registration for Foreign-Born Child",
+  "questions": [
+    {
+      "name": "child_full_name",
+      "label": "Full name of child",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "birth_country",
+      "label": "Country where child was born",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "parent_mexican_citizen",
+      "label": "Is one parent a Mexican citizen?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "formId": "NP-STUDENT-VISA-01",
+  "title": "Nepal Student Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "institution_name",
+      "label": "Name of Nepalese academic institution",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "course_duration",
+      "label": "Duration of program (months)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "financial_proof_uploaded",
+      "label": "Have you submitted proof of financial support?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

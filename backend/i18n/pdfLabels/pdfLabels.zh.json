@@ -1,0 +1,18 @@
+{
+  "__title": "移民表摘要",
+  "fullName": "全名",
+  "dateOfBirth": "出生日期",
+  "countryOfOrigin": "原籍国家",
+  "passportNumber": "护照号码",
+  "email": "电子邮件",
+  "phoneNumber": "电话号码",
+  "address": "地址",
+  "visaType": "签证类型",
+  "intendedArrivalDate": "预计到达日期",
+  "formPurpose": "申请目的",
+  "dependents": "受抚养人数",
+  "languagePreference": "首选语言",
+  "employmentStatus": "就业状况",
+  "educationLevel": "教育水平",
+  "notes": "附加备注"
+}

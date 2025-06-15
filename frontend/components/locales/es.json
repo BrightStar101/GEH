@@ -1,0 +1,12 @@
+{
+  "applicant_name": "Nombre completo",
+  "passport_number": "Número de pasaporte",
+  "birth_date": "Fecha de nacimiento",
+  "nationality": "Nacionalidad",
+  "country_of_birth": "País de nacimiento",
+  "relationship": "Relación",
+  "purpose_of_visit": "Motivo de la visita",
+  "entry_date": "Fecha de entrada",
+  "duration_days": "Duración de la estadía (días)",
+  "email": "Dirección de correo electrónico"
+}

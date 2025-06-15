@@ -1,0 +1,36 @@
+{
+  "formId": "UK-T2-01",
+  "title": "UK Skilled Worker Visa Application",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "passport_number",
+      "label": "Passport number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "certificate_sponsorship",
+      "label": "Certificate of Sponsorship (COS) number",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "job_title",
+      "label": "Job title offered",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "salary_offered",
+      "label": "Salary offered (GBP)",
+      "type": "number",
+      "required": true
+    }
+  ]
+}

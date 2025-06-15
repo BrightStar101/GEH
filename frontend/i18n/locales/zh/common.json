@@ -1,0 +1,168 @@
+{
+  "dashboard": {
+    "title": "您的文档仪表板",
+    "subtitle": "访问计划：",
+    "download": "下载 PDF",
+    "noFiles": "没有可用的文件。",
+    "defaultLabel": "未命名的提交",
+    "loading": "正在加载您的文件...",
+    "loadError": "加载文件失败。请刷新页面。",
+    "flagged": "此文件已被标记审核。",
+    "expired": "该文件已过期。",
+    "auditPending": "审核中"
+  },
+  "checkout": {
+    "title": "选择您的访问计划",
+    "subtitle": "选择一个计划并通过 Stripe 或 PayPal 安全支付。",
+    "processing": "正在处理...",
+    "redirecting": "正在跳转...",
+    "buttonStripe": "使用 Stripe 结账",
+    "buttonPayPal": "使用 PayPal 结账",
+    "selected": "您已选择：",
+    "accessDuration": "访问期限",
+    "tokenCap": "令牌上限",
+    "supportLimit": "支持请求次数",
+    "errorFallback": "无法完成结账。",
+    "errorStripe": "Stripe 结账失败。",
+    "errorPayPal": "无法启动 PayPal。",
+    "confidence": "置信度",
+    "retry": "重试",
+    "limitWarning": "此计划支持的问题数量有限。",
+    "expiredAccess": "您的访问期已结束。请升级以继续使用。"
+  },
+  "mira": {
+    "hero": "您的 AI 移民助手",
+    "note": "Mira 可帮助您填写表格 —— 她不能加快政府处理速度。",
+    "legalReminder": "您的结果仍取决于官方机构的处理时间。",
+    "start": "向 Mira 提问",
+    "disclaimer": "Mira 不是律师，无法提供法律建议。本平台仅用于文档准备与 AI 协助。"
+  },
+  "prompt": {
+    "confidenceLabel": "置信度",
+    "helpful": "有帮助",
+    "notHelpful": "无帮助",
+    "thanks": "感谢您的反馈！",
+    "feedbackFail": "反馈保存失败。",
+    "retry": "尝试另一个问题"
+  },
+  "pdf": {
+    "expiresIn": "将在以下时间过期",
+    "days": "天",
+    "expired": "该文件已过期",
+    "downloadLimitReached": "您已达到当前计划的下载限制。",
+    "upgradeToAccess": "升级您的计划以解锁更多下载。",
+    "expiresSoon": "即将过期",
+    "deleted": "该文件已不可用。"
+  },
+  "error": {
+    "notFound": "页面未找到。",
+    "generic": "发生错误。",
+    "suggestion": "请重试或返回主页。",
+    "backHome": "返回主页",
+    "authExpired": "您的登录会话已过期。",
+    "invalidToken": "无效或过期的令牌。",
+    "serverDown": "我们正在处理技术问题。",
+    "retryLater": "请稍后再试。"
+  },
+  "success": {
+    "title": "您的计划已激活",
+    "description": "您现在可以访问全部 AI 功能并下载已完成的表格。",
+    "nextSteps": "下一步操作",
+    "dashboardCTA": "前往仪表板"
+  },
+  "landing": {
+    "heroHeadline": "让移民变得简单。",
+    "heroSubhead": "快速、实惠、可信。",
+    "getStarted": "立即开始",
+    "tryMira": "立即试用 Mira",
+    "value1": "快 5 倍",
+    "value2": "每案节省 $700+",
+    "value3": "99.2% 精准度",
+    "value4": "一对一 AI 多语言支持"
+  },
+  "about": {
+    "missionTitle": "我们的使命",
+    "mission": "我们相信移民是权利，不是奢侈。我们的使命是让每个家庭都有能力前行 —— 具备清晰、尊严与值得信赖的支持。",
+    "whyBuilt": "为什么我们创建 Mira",
+    "vision": "我们的愿景",
+    "values": {
+      "clarity": "清晰与赋能",
+      "accuracy": "训练有素的高精准 AI",
+      "compassion": "每段旅程都值得被支持"
+    }
+  },
+  "trust": {
+    "title": "信任与透明",
+    "scoreTitle": "准确评分",
+    "uptime": "平台可用率",
+    "secureData": "您的数据经过加密并安全存储。",
+    "auditReady": "本平台符合全球隐私标准。",
+    "compliance": "符合 GDPR、CCPA 及全球数据隐私法规。",
+    "encrypted": "所有文档均已加密存储。",
+    "auditTrail": "所有敏感操作均记录审计轨迹。"
+  },
+  "support": {
+    "title": "需要帮助？",
+    "emailIntro": "如有关于表格、付款或技术问题，请联系：",
+    "responseTime": "我们的团队通常会在 24–48 小时内回复。",
+    "chatUnavailable": "聊天功能当前不可用，请稍后再试。",
+    "formIssue": "填写表格遇到问题？",
+    "emailUs": "请发送邮件至 support@globalentryhub.com",
+    "prompts": {
+      "question1": "我如何开始填写表格？",
+      "answer1": "从仪表板点击任一表格，Mira 将引导您完成。",
+      "question2": "我如何升级计划？",
+      "answer2": "前往价格页面并选择您想要的计划。",
+      "question3": "我可以和真人联系吗？",
+      "answer3": "可以 — 有紧急情况请联系 support@globalentryhub.com。"
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "disclaimer": "本平台不提供法律建议，仅用于 AI 文件辅助填写。",
+    "refundPolicy": "如果未提交任何表格，购买后 72 小时内可申请退款。",
+    "license": "您对平台的使用受 GEH 使用协议约束。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "summary": "我们重视您的隐私。本政策说明我们如何收集、使用和保护您的信息。",
+    "gdpr": "您可以随时申请导出或删除您的数据。",
+    "contact": "如有隐私问题，请联系 privacy@globalentryhub.com。"
+  },
+  "nav": {
+    "dashboard": "仪表板",
+    "support": "支持",
+    "purchase": "购买",
+    "logout": "登出",
+    "tryMira": "试用 Mira"
+  },
+  "footer": {
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "trust": "信任与安全",
+    "support": "联系支持",
+    "legal": "所有内容 © Global Entry Hub。保留所有权利。",
+    "security": "安全概览",
+    "dataExport": "导出我的数据",
+    "languageSelector": "语言",
+    "cookies": "Cookie 设置"
+  },
+  "redirect": {
+    "title": "正在跳转...",
+    "description": "如果未自动跳转，请点击下方按钮。",
+    "clickHere": "点击这里"
+  },
+  "enhancements": {
+    "title": "即将推出的功能",
+    "subtitle": "了解 Global Entry Hub 的未来计划",
+    "kairoLaunch": "Kairo（金融助手）即将发布",
+    "languageExpansions": "每月新增更多语言",
+    "merchLine": "Mira 周边商品即将上线！"
+  },
+  "plan": {
+    "free": "首个表格免费",
+    "starter": "入门计划",
+    "official": "官方套餐",
+    "family": "家庭计划"
+  }
+}

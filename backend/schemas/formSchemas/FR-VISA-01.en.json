@@ -1,0 +1,36 @@
+{
+  "formId": "FR-VISA-01",
+  "title": "France Short-Stay Schengen Visa",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name (as in passport)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "nationality",
+      "label": "Nationality",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "arrival_date",
+      "label": "Planned date of arrival in Schengen area",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "duration_days",
+      "label": "Duration of stay (days)",
+      "type": "number",
+      "required": true
+    },
+    {
+      "name": "has_schengen_visa_before",
+      "label": "Have you held a Schengen visa before?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "formId": "GLOBAL-PARENT-01",
+  "title": "Parent of Resident Visa Template",
+  "questions": [
+    {
+      "name": "resident_child_name",
+      "label": "Full name of child who is the resident",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "your_name",
+      "label": "Full name of parent (you)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "supporting_documents_uploaded",
+      "label": "Have you uploaded proof of relationship?",
+      "type": "text",
+      "required": true
+    }
+  ]
+}

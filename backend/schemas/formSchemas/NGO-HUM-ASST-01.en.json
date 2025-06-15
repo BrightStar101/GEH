@@ -1,0 +1,24 @@
+{
+  "formId": "NGO-HUM-ASST-01",
+  "title": "Humanitarian Assistance Intake (NGO)",
+  "questions": [
+    {
+      "name": "applicant_name",
+      "label": "Full name of recipient",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "assistance_type",
+      "label": "Type of assistance needed (e.g., food, housing, medical)",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "urgency_level",
+      "label": "How urgent is the need? (low, medium, high)",
+      "type": "text",
+      "required": true
+    }
+  ]
+}
