@@ -63,9 +63,9 @@ app.use('/api/admin-impact', require('./routes/adminImpactRoutes')); // ✅ Admi
 
 app.use(express.static(path.join(__dirname, "dist")));
 
-app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "dist", "index.html"));
-});
+// app.get("*", (req, res) => {
+//   res.sendFile(path.join(__dirname, "dist", "index.html"));
+// });
 
 
 // Global fallback route for unmatched endpoints
