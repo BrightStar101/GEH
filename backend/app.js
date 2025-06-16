@@ -61,11 +61,11 @@ app.use('/api/chat', chatRoutes);
 app.use('/api/paypal', paypalRoutes);
 app.use('/api/admin-impact', require('./routes/adminImpactRoutes')); // ✅ Admin Impact Dashboard
 
-app.use(express.static(path.join(__dirname, "share")));
+app.use(express.static(path.join(__dirname, "public")));
 
-// app.get("*", (req, res) => {
-//   res.sendFile(path.join(__dirname, "dist", "index.html"));
-// });
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "dist", "index.html"));
+});
 
 
 // Global fallback route for unmatched endpoints
