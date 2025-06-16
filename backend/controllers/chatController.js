@@ -17,7 +17,7 @@ const { validatePrompt } = require('../utils/inputValidator');
 const { sanitizeHTML } = require('../utils/richTextSanitizer');
 const { logError } = require('../utils/loggerUtils');
 const { getUserById } = require('../services/userProfileService');
-const { getTierConfig } = require('../../frontend/utils/pricingConfig');
+const TierConfig = require('../config/purchaseTierConfig.json');
 const PromptLog = require('../models/PromptLog');
 
 /**
@@ -76,7 +76,7 @@ async function handleChatRequest(req, res) {
     user.promptsUsed += 1;
     await user.save();
 
-    const maxAllowed = getTierConfig(user.planTier).promptLimit + user.extraPrompts;
+    const maxAllowed = TierConfig[user.planTier].maxPrompts + user.extraPrompts;
 
     // Return full structured response
     return res.status(200).json({
