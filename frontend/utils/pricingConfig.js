@@ -100,7 +100,7 @@ export const formAvailable = (user) => {
     return true;
   if(user?.formUsed >= tierInfo.formsIncluded)
     return false;
-  if((Date.now() - new Date(user?.planActivatedAt)) >= tierInfo.durationHours * 60 * 60 * 1000)
+  if(user?.planTier !== 'free' && (Date.now() - new Date(user?.planActivatedAt)) >= tierInfo.durationHours * 60 * 60 * 1000)
     return false;
   return true;
 }
