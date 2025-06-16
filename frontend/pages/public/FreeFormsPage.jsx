@@ -26,7 +26,7 @@ export default function FreeFormsPage() {
 
   useEffect(() => {
     const load = async () => {
-      const res = await axios.get('/config/formIndex.json');
+      const res = await axios.get('/api/form/free');
       setForms(res.data || []);
     };
     load();

@@ -11,6 +11,7 @@ const { authenticate } = require('../middleware/authMiddleware');
 const { generateFormPDF } = require('../services/formFillerService');
 const userModel = require('../models/userModel');
 const AuditLog = require('../models/AuditLog');
+const freeForms = require('../config/formIndex');
 
 // Middleware: Ensure schema is loaded in request context
 async function attachFormSchema(req, res, next) {
@@ -26,6 +27,10 @@ async function attachFormSchema(req, res, next) {
     // next(err);
   }
 }
+
+router.get('/free', async (req, res) => {
+  res.json(freeForms)
+})
 
 /**
  * GET /api/form/

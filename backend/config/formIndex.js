@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "formId": "I-130",
     "title": {

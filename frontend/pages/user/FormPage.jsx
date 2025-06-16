@@ -71,7 +71,7 @@ export default function FormPage() {
           navigate('/pricing');
         }
 
-        const res = await axios.get('/config/formIndex.json');
+        const res = await axios.get('/api/form/free');
         const forms = (res.data || []).filter(form => form.formId === formId);
         if (forms.length) {
           setCurrentForm(forms[0]);
