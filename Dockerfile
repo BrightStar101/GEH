@@ -8,7 +8,7 @@ RUN cd frontend && npm install && npm run build
 FROM node:20
 WORKDIR /app
 COPY backend ./backend
-COPY --from=build /app/frontend/build ./backend/public
+COPY --from=build /app/frontend/dist ./backend/public
 WORKDIR /app/backend
 RUN npm install
 
