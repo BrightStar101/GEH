@@ -30,7 +30,7 @@ async function getOpenAIKey() {
  * @returns {Promise<{ result: string, normalizedScore: number }>}
  */
 async function sendPrompt({ userId, prompt, maxTokens, model = 'gpt-4o', language = 'en', agent = 'mira' }) {
-  const apiKey = await getOpenAIKey();
+  const apiKey = process.env.OPENAI_API_KEY || await getOpenAIKey();
 
   const headers = {
     Authorization: `Bearer ${apiKey.replace('\n', '')}`,
