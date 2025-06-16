@@ -41,7 +41,7 @@ export default function FormPage() {
       setCurrentIndex(currentIndex+1);
     } catch(err) {
       console.log(err);
-      if(err.response.data.name === 'NotFoundError')
+      if(err?.response?.data?.name === 'NotFoundError')
         toast.error('Form data not found')
       navigate('/free-form');
     }
