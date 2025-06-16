@@ -73,7 +73,7 @@ export default function Mira() {
         setPurchaseModalOpen(true);
     } catch (err) {
       console.error("Mira Chat Error:", err);
-      setError(err.response?.data?.error || "Mira couldn't respond at this time. Please try again later.");
+      setError(err.response?.data?.error || err.response?.data?.message || "Mira couldn't respond at this time. Please try again later.");
 
       if(err.response.data.extra)
         setPurchaseModalOpen(true);
