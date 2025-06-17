@@ -2,12 +2,12 @@
   "name": "geh-backend",
   "version": "1.0.0",
   "description": "Global Entry Hub backend API - production deployment",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "start:db": "mongod --dbpath=./db --port=27000",
     "start:stripe-local": "stripe listen --events checkout.session.completed --forward-to localhost:8080/api/stripe/webhook",
-    "dev": "nodemon app.js",
+    "dev": "nodemon index.js",
     "lint": "eslint .",
     "predeploy": "npm install && npm run lint",
     "deploy": "gcloud run deploy geh-backend --source . --region=us-central1 --project=immigrationai --allow-unauthenticated"
